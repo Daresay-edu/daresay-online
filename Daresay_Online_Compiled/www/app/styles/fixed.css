@@ -1,0 +1,3709 @@
+﻿/*!
+ * This file is part of App Builder
+ *
+ * ©2016 App Builder - https://www.davidesperalta.com
+ */
+
+/* App auto generated CSS */
+
+html, body, .appView { width: 320px; height: 480px; }
+
+.dialogView .modal-dialog { width: 320px; margin: 0 auto; }
+
+#Progressbar1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 24px; }
+
+#Label1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 24px; color: #ffffff; font-size: 20px; text-align: center; background-color: #3a3a3a;}
+
+#passwd { position: absolute; top: 160px; left: 64px; width: 192px; height: 40px; }
+
+#Login { position: absolute; top: 200px; left: 64px; width: 192px; height: 40px; color: #66e3a5;}
+
+#engname { position: absolute; top: 112px; left: 64px; width: 192px; height: 40px; }
+
+#classid { position: absolute; top: 64px; left: 64px; width: 192px; height: 40px; }
+
+#HtmlContent1 { position: absolute; top: 352px; left: 0px; width: 320px; height: 64px; }
+
+#refresh { position: absolute; top: 0px; left: 296px; width: 20px; height: 24px; }
+
+#HtmlContent8 { position: absolute; top: 440px; left: 48px; width: 224px; height: 18px; }
+
+#Container1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image1 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image3 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image9 { position: absolute; top: 0px; left: 16px; width: 40px; height: 34px; }
+
+#Label19 { position: absolute; top: 72px; left: 8px; width: 304px; height: 72px; }
+
+#Image404 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#HtmlContent6 { position: absolute; top: 64px; left: 8px; width: 304px; height: 240px; }
+
+#Container3 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image405 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Image4 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image5 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image15 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image28 { position: absolute; top: 328px; left: 136px; width: 46px; height: 44px; }
+
+#Label2 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; text-align: center; background-color: #ffb366;}
+
+#Label17 { position: absolute; top: 376px; left: 64px; width: 192px; height: 16px; text-align: center;}
+
+#HtmlContent32 { position: absolute; top: 416px; left: 40px; width: 224px; height: 18px; }
+
+#K1_u1_cc { background-color: #ffffff; }
+
+#Container4 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image7 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image10 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#r_K1u1 { position: absolute; top: 64px; left: 8px; width: 304px; height: 368px; }
+
+#Label4 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#ccK1u1h1_2 { position: absolute; top: 40px; left: 368px; width: 128px; height: 37px; }
+
+#ccK1u1h3_4 { position: absolute; top: 96px; left: 368px; width: 128px; height: 37px; }
+
+#Image13 { position: absolute; top: 0px; left: 16px; width: 40px; height: 34px; }
+
+#ccK1u1h5_6 { position: absolute; top: 144px; left: 368px; width: 128px; height: 37px; }
+
+#ccK1u1h7_8 { position: absolute; top: 192px; left: 368px; width: 128px; height: 37px; }
+
+#ccK1u1h9_10 { position: absolute; top: 240px; left: 368px; width: 128px; height: 37px; }
+
+#ccK1u1h11_12 { position: absolute; top: 288px; left: 368px; width: 152px; height: 37px; }
+
+#ccK1u1h13_14 { position: absolute; top: 336px; left: 368px; width: 144px; height: 37px; }
+
+#ccK1u1h17_18 { position: absolute; top: 40px; left: 504px; width: 144px; height: 37px; }
+
+#Image19 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container100 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image20 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image21 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label173 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image505 { position: absolute; top: 0px; left: 16px; width: 40px; height: 34px; }
+
+#Image506 { position: absolute; top: 224px; left: 16px; width: 72px; height: 64px; }
+
+#Image507 { position: absolute; top: 216px; left: 104px; width: 104px; height: 96px; }
+
+#Image508 { position: absolute; top: 216px; left: 224px; width: 80px; height: 80px; }
+
+#HtmlContent7 { position: absolute; top: 320px; left: 48px; width: 224px; height: 18px; }
+
+#Image509 { position: absolute; top: 112px; left: 112px; width: 96px; height: 88px; }
+
+#Image510 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container99 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image497 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image498 { position: absolute; top: 0px; left: 16px; width: 40px; height: 32px; }
+
+#Image499 { position: absolute; top: 232px; left: 24px; width: 72px; height: 64px; }
+
+#Image500 { position: absolute; top: 224px; left: 104px; width: 104px; height: 96px; }
+
+#HtmlContent136 { position: absolute; top: 344px; left: 48px; width: 224px; height: 18px; }
+
+#Image501 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image502 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Image503 { position: absolute; top: 112px; left: 112px; width: 96px; height: 88px; }
+
+#Label174 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image504 { position: absolute; top: 224px; left: 224px; width: 80px; height: 80px; }
+
+#MediaPlayer3 { position: absolute; top: 64px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer4 { position: absolute; top: 112px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer5 { position: absolute; top: 160px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer6 { position: absolute; top: 208px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer7 { position: absolute; top: 256px; left: 8px; width: 304px; height: 40px; }
+
+#Container8 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image22 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image23 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label15 { position: absolute; top: 46px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image24 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer8 { position: absolute; top: 304px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer9 { position: absolute; top: 352px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer10 { position: absolute; top: 400px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer11 { position: absolute; top: 448px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer13 { position: absolute; top: 496px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer14 { position: absolute; top: 544px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer15 { position: absolute; top: 592px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer16 { position: absolute; top: 640px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer17 { position: absolute; top: 688px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer18 { position: absolute; top: 736px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer19 { position: absolute; top: 784px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer20 { position: absolute; top: 832px; left: 8px; width: 304px; height: 40px; }
+
+#Image219 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container9 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image25 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image26 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label16 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image27 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image220 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#iframe_k1_u1_video { position: absolute; top: 136px; left: 360px; width: 304px; height: 200px; }
+
+#close_k1_u1_video { position: absolute; top: 80px; left: 496px; width: 24px; height: 24px; }
+
+#Image636 { position: absolute; top: 64px; left: 8px; width: 304px; height: 120px; }
+
+#Image635 { position: absolute; top: 192px; left: 8px; width: 304px; height: 120px; }
+
+#Image637 { position: absolute; top: 320px; left: 8px; width: 304px; height: 120px; }
+
+#Image638 { position: absolute; top: 448px; left: 8px; width: 304px; height: 120px; }
+
+#Image639 { position: absolute; top: 576px; left: 8px; width: 304px; height: 120px; }
+
+#Image640 { position: absolute; top: 704px; left: 8px; width: 304px; height: 120px; }
+
+#Image641 { position: absolute; top: 832px; left: 8px; width: 304px; height: 120px; }
+
+#Image642 { position: absolute; top: 960px; left: 8px; width: 304px; height: 120px; }
+
+#Image643 { position: absolute; top: 1088px; left: 8px; width: 304px; height: 120px; }
+
+#Image644 { position: absolute; top: 1216px; left: 8px; width: 304px; height: 120px; }
+
+#Image645 { position: absolute; top: 1344px; left: 8px; width: 304px; height: 120px; }
+
+#Image646 { position: absolute; top: 1472px; left: 8px; width: 304px; height: 120px; }
+
+#Image647 { position: absolute; top: 1600px; left: 8px; width: 304px; height: 120px; }
+
+#Image648 { position: absolute; top: 1728px; left: 8px; width: 304px; height: 120px; }
+
+#Container13 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image37 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image41 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#r_K1u2 { position: absolute; top: 64px; left: 8px; width: 304px; height: 224px; }
+
+#Label3 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#ccK1u1h19_20 { position: absolute; top: 40px; left: 368px; width: 160px; height: 37px; }
+
+#ccK1u1h21_22 { position: absolute; top: 88px; left: 368px; width: 160px; height: 37px; }
+
+#Image42 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#ccK1u1h23_24 { position: absolute; top: 136px; left: 368px; width: 160px; height: 37px; }
+
+#ccK1u1h25_26 { position: absolute; top: 184px; left: 368px; width: 160px; height: 37px; }
+
+#ccK1u1h27_28 { position: absolute; top: 232px; left: 368px; width: 160px; height: 37px; }
+
+#ccK1u1h29_30 { position: absolute; top: 280px; left: 368px; width: 160px; height: 37px; }
+
+#Image210 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container24 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image74 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image105 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#r_K1u4 { position: absolute; top: 64px; left: 8px; width: 304px; height: 296px; }
+
+#Label34 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#ccK14748 { position: absolute; top: 40px; left: 368px; width: 128px; height: 37px; }
+
+#ccK14950 { position: absolute; top: 96px; left: 368px; width: 128px; height: 37px; }
+
+#Image115 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#ccK15152 { position: absolute; top: 144px; left: 368px; width: 128px; height: 37px; }
+
+#ccK15354 { position: absolute; top: 192px; left: 368px; width: 128px; height: 37px; }
+
+#ccK15556 { position: absolute; top: 240px; left: 368px; width: 128px; height: 37px; }
+
+#ccK15758 { position: absolute; top: 288px; left: 368px; width: 128px; height: 37px; }
+
+#ccK15960 { position: absolute; top: 336px; left: 368px; width: 128px; height: 37px; }
+
+#ccK16162 { position: absolute; top: 40px; left: 512px; width: 128px; height: 37px; }
+
+#Image511 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container10 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image32 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image33 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image34 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Progressbar2 { position: absolute; top: 200px; left: 16px; width: 288px; height: 32px; }
+
+#Label24 { position: absolute; top: 176px; left: 16px; width: 288px; height: 24px; text-align: center;}
+
+#Image512 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#gohome { position: absolute; top: 42px; left: 136px; width: 56px; height: 40px; }
+
+#k1u1 { position: absolute; top: 88px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #ffad5b; padding-left: 20px;}
+
+#Label5 { position: absolute; top: 120px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #00ec76; padding-left: 20px;}
+
+#Label6 { position: absolute; top: 152px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #bb77ff; padding-left: 20px;}
+
+#Label7 { position: absolute; top: 184px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #26b9ff; padding-left: 20px;}
+
+#Label8 { position: absolute; top: 216px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #f0f000; padding-left: 20px;}
+
+#Label9 { position: absolute; top: 248px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #ff8080; padding-left: 20px;}
+
+#Label10 { position: absolute; top: 280px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #b5b500; padding-left: 20px;}
+
+#Label11 { position: absolute; top: 312px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #a3a3d1; padding-left: 20px;}
+
+#Label12 { position: absolute; top: 344px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #00d200; padding-left: 20px;}
+
+#Label13 { position: absolute; top: 376px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #e80074; padding-left: 20px;}
+
+#Label14 { position: absolute; top: 408px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #ffff00; padding-left: 20px;}
+
+#Container5 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image11 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image12 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image14 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label25 { position: absolute; top: 440px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #02adff; padding-left: 20px;}
+
+#Image517 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container2 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image2 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image6 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image8 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image327 { position: absolute; top: 42px; left: 136px; width: 56px; height: 40px; }
+
+#Label68 { position: absolute; top: 88px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #ffad5b; padding-left: 20px;}
+
+#Label69 { position: absolute; top: 120px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #00ec76; padding-left: 20px;}
+
+#Label70 { position: absolute; top: 152px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #bb77ff; padding-left: 20px;}
+
+#Label71 { position: absolute; top: 184px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #26b9ff; padding-left: 20px;}
+
+#Label72 { position: absolute; top: 216px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #f0f000; padding-left: 20px;}
+
+#Label73 { position: absolute; top: 248px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #ff8080; padding-left: 20px;}
+
+#Label74 { position: absolute; top: 280px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #b5b500; padding-left: 20px;}
+
+#Label75 { position: absolute; top: 312px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #a3a3d1; padding-left: 20px;}
+
+#Container60 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image403 { position: absolute; top: 8px; left: 240px; width: 24px; height: 24px; }
+
+#Image328 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image329 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image330 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Container6 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image16 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image17 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image18 { position: absolute; top: 4px; left: 16px; width: 40px; height: 34px; }
+
+#shapesgif { position: absolute; top: 128px; left: 0px; width: 320px; height: 176px; }
+
+#Container7 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image29 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image30 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image31 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label18 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image35 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent5 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image36 { position: absolute; top: 176px; left: 24px; width: 92px; height: 99px; }
+
+#Image46 { position: absolute; top: 176px; left: 200px; width: 84px; height: 91px; }
+
+#yes1 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#no1 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Image49 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#lettera { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#letterd { position: absolute; top: 184px; left: 384px; width: 152px; height: 48px; }
+
+#Container12 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image38 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image39 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image40 { position: absolute; top: 0px; left: 16px; width: 40px; height: 34px; }
+
+#Label20 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image48 { position: absolute; top: 176px; left: 24px; width: 92px; height: 99px; }
+
+#Image50 { position: absolute; top: 176px; left: 200px; width: 84px; height: 91px; }
+
+#Image58 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image53 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent9 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#yes2 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#no2 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#lettere { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#letterh { position: absolute; top: 184px; left: 384px; width: 152px; height: 48px; }
+
+#lettergif { position: absolute; top: 120px; left: 0px; width: 320px; height: 216px; }
+
+#HtmlContent2 { position: absolute; top: 120px; left: 0px; width: 320px; height: 216px; }
+
+#Container11 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image54 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image55 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image56 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label21 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image57 { position: absolute; top: 176px; left: 24px; width: 92px; height: 99px; }
+
+#Image59 { position: absolute; top: 176px; left: 200px; width: 84px; height: 91px; }
+
+#Image62 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image150 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent33 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#yes3 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#no3 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#letterg { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#letterj { position: absolute; top: 192px; left: 384px; width: 152px; height: 48px; }
+
+#engname1 { position: absolute; top: 112px; left: 56px; width: 200px; height: 40px; }
+
+#Button2 { position: absolute; top: 256px; left: 56px; width: 200px; height: 40px; }
+
+#passwd1 { position: absolute; top: 176px; left: 56px; width: 200px; height: 40px; }
+
+#gentitle { position: absolute; top: 40px; left: 0px; width: 320px; height: 40px; text-align: center;}
+
+#Container14 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image47 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image60 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image61 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label22 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image65 { position: absolute; top: 184px; left: 40px; width: 68px; height: 75px; }
+
+#Image66 { position: absolute; top: 176px; left: 200px; width: 84px; height: 91px; }
+
+#Image69 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image63 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent23 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#yes4 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#no4 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#letterm { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#lettern { position: absolute; top: 184px; left: 384px; width: 152px; height: 48px; }
+
+#Container15 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image70 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image71 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image72 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label23 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image75 { position: absolute; top: 176px; left: 200px; width: 84px; height: 88px; }
+
+#Image76 { position: absolute; top: 176px; left: 24px; width: 84px; height: 91px; }
+
+#Image79 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image73 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent24 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#yes5 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#no5 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#letterk { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#lettert { position: absolute; top: 184px; left: 384px; width: 152px; height: 48px; }
+
+#Container16 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image67 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image68 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image77 { position: absolute; top: 4px; left: 16px; width: 40px; height: 34px; }
+
+#Label26 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image81 { position: absolute; top: 176px; left: 208px; width: 84px; height: 88px; }
+
+#Image82 { position: absolute; top: 176px; left: 24px; width: 84px; height: 91px; }
+
+#Image85 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image78 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent25 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#yes6 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#no6 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#letterl { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#letterq { position: absolute; top: 176px; left: 384px; width: 152px; height: 48px; }
+
+#Container17 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image83 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image84 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image86 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label27 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image89 { position: absolute; top: 176px; left: 208px; width: 84px; height: 88px; }
+
+#Image90 { position: absolute; top: 176px; left: 24px; width: 84px; height: 91px; }
+
+#Image93 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#letterr { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#letters { position: absolute; top: 184px; left: 384px; width: 152px; height: 48px; }
+
+#Image87 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent13 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image758 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image759 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container18 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image91 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image92 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image94 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label28 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image97 { position: absolute; top: 184px; left: 40px; width: 84px; height: 88px; }
+
+#Image98 { position: absolute; top: 184px; left: 200px; width: 84px; height: 91px; }
+
+#Image101 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#letteru { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#letterv { position: absolute; top: 176px; left: 384px; width: 152px; height: 48px; }
+
+#Image95 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent14 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image760 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image761 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container19 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image99 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image100 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image102 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label29 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image106 { position: absolute; top: 176px; left: 112px; width: 84px; height: 88px; }
+
+#Image107 { position: absolute; top: 176px; left: 16px; width: 84px; height: 91px; }
+
+#Image110 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image111 { position: absolute; top: 176px; left: 216px; width: 84px; height: 88px; }
+
+#letterx { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#lettery { position: absolute; top: 176px; left: 384px; width: 152px; height: 48px; }
+
+#letterz { position: absolute; top: 240px; left: 384px; width: 152px; height: 48px; }
+
+#Image103 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent15 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image762 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image763 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container20 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image109 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image112 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image113 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label30 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image117 { position: absolute; top: 176px; left: 56px; width: 84px; height: 91px; }
+
+#Image120 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image121 { position: absolute; top: 176px; left: 184px; width: 84px; height: 88px; }
+
+#ball { position: absolute; top: 88px; left: 392px; width: 152px; height: 48px; }
+
+#teddybear { position: absolute; top: 152px; left: 392px; width: 152px; height: 48px; }
+
+#Image114 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent16 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image764 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image765 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container21 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image108 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image116 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image118 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label31 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image123 { position: absolute; top: 176px; left: 16px; width: 152px; height: 136px; }
+
+#Image126 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image127 { position: absolute; top: 176px; left: 208px; width: 84px; height: 176px; }
+
+#bicycle { position: absolute; top: 80px; left: 392px; width: 152px; height: 48px; }
+
+#yoyo { position: absolute; top: 152px; left: 392px; width: 152px; height: 48px; }
+
+#Image119 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent17 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image766 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image767 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container22 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image124 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image125 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image128 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label32 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image131 { position: absolute; top: 256px; left: 80px; width: 152px; height: 136px; }
+
+#Image134 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image135 { position: absolute; top: 168px; left: 200px; width: 84px; height: 112px; }
+
+#Image136 { position: absolute; top: 176px; left: 32px; width: 84px; height: 88px; }
+
+#train { position: absolute; top: 128px; left: 400px; width: 152px; height: 48px; }
+
+#car { position: absolute; top: 192px; left: 400px; width: 152px; height: 48px; }
+
+#doll { position: absolute; top: 264px; left: 400px; width: 152px; height: 48px; }
+
+#Image129 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent18 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image768 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image769 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container23 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image51 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image52 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image64 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label33 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image80 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image88 { position: absolute; top: 216px; left: 168px; width: 100px; height: 136px; }
+
+#Image96 { position: absolute; top: 216px; left: 32px; width: 120px; height: 136px; }
+
+#jump_rope { position: absolute; top: 128px; left: 392px; width: 152px; height: 48px; }
+
+#toy_gun { position: absolute; top: 200px; left: 392px; width: 152px; height: 48px; }
+
+#Image104 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent11 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image770 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image771 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container34 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image183 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image184 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image186 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label44 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image187 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image188 { position: absolute; top: 216px; left: 168px; width: 112px; height: 136px; }
+
+#b { position: absolute; top: 216px; left: 32px; width: 120px; height: 136px; }
+
+#building_blocks { position: absolute; top: 128px; left: 392px; width: 152px; height: 48px; }
+
+#toy_digger { position: absolute; top: 184px; left: 392px; width: 152px; height: 48px; }
+
+#Image190 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent19 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image772 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image773 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#MediaPlayer12 { position: absolute; top: 64px; left: 8px; width: 304px; height: 40px; }
+
+#Container25 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image133 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image137 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label35 { position: absolute; top: 46px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image138 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image518 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container26 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image139 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image140 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label36 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image141 { position: absolute; top: 4px; left: 16px; width: 40px; height: 34px; }
+
+#HtmlContent37 { position: absolute; top: 64px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent38 { position: absolute; top: 240px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent35 { position: absolute; top: 416px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent36 { position: absolute; top: 592px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent85 { position: absolute; top: 768px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent86 { position: absolute; top: 944px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent87 { position: absolute; top: 1120px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent89 { position: absolute; top: 1296px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent90 { position: absolute; top: 1472px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent91 { position: absolute; top: 1648px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer1 { position: absolute; top: 64px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer2 { position: absolute; top: 112px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer38 { position: absolute; top: 160px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer39 { position: absolute; top: 208px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer40 { position: absolute; top: 256px; left: 8px; width: 304px; height: 40px; }
+
+#Container27 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image142 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image143 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label37 { position: absolute; top: 46px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image144 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer41 { position: absolute; top: 304px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer42 { position: absolute; top: 352px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer43 { position: absolute; top: 400px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer44 { position: absolute; top: 448px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer45 { position: absolute; top: 496px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer46 { position: absolute; top: 544px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer47 { position: absolute; top: 592px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer48 { position: absolute; top: 640px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer49 { position: absolute; top: 688px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer50 { position: absolute; top: 736px; left: 8px; width: 304px; height: 40px; }
+
+#Image519 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container28 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image145 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image146 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label38 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image147 { position: absolute; top: 2px; left: 16px; width: 40px; height: 34px; }
+
+#Image520 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#iframe_k1_u2_video { position: absolute; top: 136px; left: 360px; width: 304px; height: 200px; }
+
+#close_k1_u2_video { position: absolute; top: 80px; left: 496px; width: 24px; height: 24px; }
+
+#Image650 { position: absolute; top: 64px; left: 8px; width: 304px; height: 120px; }
+
+#Image653 { position: absolute; top: 192px; left: 8px; width: 304px; height: 120px; }
+
+#Image654 { position: absolute; top: 320px; left: 8px; width: 304px; height: 120px; }
+
+#Image655 { position: absolute; top: 448px; left: 8px; width: 304px; height: 120px; }
+
+#Image649 { position: absolute; top: 576px; left: 8px; width: 304px; height: 120px; }
+
+#Image651 { position: absolute; top: 704px; left: 8px; width: 304px; height: 120px; }
+
+#Image652 { position: absolute; top: 832px; left: 8px; width: 304px; height: 120px; }
+
+#Image656 { position: absolute; top: 960px; left: 8px; width: 304px; height: 120px; }
+
+#Container29 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image148 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image149 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image151 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label39 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image153 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image154 { position: absolute; top: 176px; left: 168px; width: 128px; height: 120px; }
+
+#Image155 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent47 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#yesk1u21 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#nok1u21 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#red { position: absolute; top: 88px; left: 392px; width: 152px; height: 48px; }
+
+#blue { position: absolute; top: 152px; left: 392px; width: 152px; height: 48px; }
+
+#Image152 { position: absolute; top: 176px; left: 24px; width: 120px; height: 120px; }
+
+#Container30 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image156 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image157 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image158 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label40 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image159 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image160 { position: absolute; top: 176px; left: 176px; width: 128px; height: 120px; }
+
+#orange { position: absolute; top: 88px; left: 392px; width: 152px; height: 48px; }
+
+#yellow { position: absolute; top: 152px; left: 392px; width: 152px; height: 48px; }
+
+#Image164 { position: absolute; top: 176px; left: 24px; width: 128px; height: 128px; }
+
+#Image161 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent20 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image774 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image775 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container31 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image162 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image163 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image165 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label41 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image166 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image167 { position: absolute; top: 176px; left: 16px; width: 112px; height: 104px; }
+
+#green { position: absolute; top: 88px; left: 392px; width: 152px; height: 48px; }
+
+#purple { position: absolute; top: 152px; left: 392px; width: 152px; height: 48px; }
+
+#Image171 { position: absolute; top: 176px; left: 184px; width: 112px; height: 104px; }
+
+#Image168 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent21 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image776 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image777 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container32 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image169 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image170 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image172 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label42 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image173 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image174 { position: absolute; top: 176px; left: 24px; width: 128px; height: 112px; }
+
+#black { position: absolute; top: 88px; left: 392px; width: 152px; height: 48px; }
+
+#white { position: absolute; top: 152px; left: 392px; width: 152px; height: 48px; }
+
+#Image178 { position: absolute; top: 176px; left: 176px; width: 120px; height: 112px; }
+
+#Image175 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent22 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image778 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image779 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container33 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image176 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image177 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image179 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label43 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image180 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image181 { position: absolute; top: 176px; left: 24px; width: 112px; height: 104px; }
+
+#white1 { position: absolute; top: 88px; left: 392px; width: 152px; height: 48px; }
+
+#gray { position: absolute; top: 152px; left: 392px; width: 152px; height: 48px; }
+
+#Image185 { position: absolute; top: 176px; left: 168px; width: 128px; height: 104px; }
+
+#Image182 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent26 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image780 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image781 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container35 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image189 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image191 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#r_K1u9 { position: absolute; top: 64px; left: 8px; width: 304px; height: 328px; }
+
+#Label45 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#ccK1h129_130 { position: absolute; top: 40px; left: 368px; width: 136px; height: 37px; }
+
+#ccK1h131_132 { position: absolute; top: 96px; left: 368px; width: 128px; height: 37px; }
+
+#Image192 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#ccK1h133_134 { position: absolute; top: 144px; left: 368px; width: 128px; height: 37px; }
+
+#ccK1h135_136 { position: absolute; top: 192px; left: 368px; width: 128px; height: 37px; }
+
+#ccK1h137_138 { position: absolute; top: 240px; left: 368px; width: 128px; height: 37px; }
+
+#ccK1h139_140 { position: absolute; top: 288px; left: 368px; width: 152px; height: 37px; }
+
+#ccK1h141_142 { position: absolute; top: 336px; left: 368px; width: 144px; height: 37px; }
+
+#ccK1h143_144 { position: absolute; top: 40px; left: 512px; width: 144px; height: 37px; }
+
+#ccK1h145_146 { position: absolute; top: 96px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer51 { position: absolute; top: 64px; left: 8px; width: 304px; height: 40px; }
+
+#Container36 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image196 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image197 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label46 { position: absolute; top: 46px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image198 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image521 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#HtmlContent54 { position: absolute; top: 592px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent55 { position: absolute; top: 768px; left: 8px; width: 304px; height: 168px; }
+
+#Container37 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image199 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image200 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label47 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image201 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#HtmlContent56 { position: absolute; top: 64px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent57 { position: absolute; top: 240px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent58 { position: absolute; top: 416px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent59 { position: absolute; top: 944px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent60 { position: absolute; top: 1120px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent61 { position: absolute; top: 1296px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent62 { position: absolute; top: 1472px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent63 { position: absolute; top: 1648px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent64 { position: absolute; top: 2000px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent65 { position: absolute; top: 2176px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent66 { position: absolute; top: 2352px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent67 { position: absolute; top: 1824px; left: 8px; width: 304px; height: 168px; }
+
+#Image522 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container40 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image214 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image215 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image216 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image218 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent71 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#HtmlContent72 { position: absolute; top: 48px; left: 8px; width: 304px; height: 384px; }
+
+#Container39 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image211 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image212 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image213 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image217 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent69 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#HtmlContent70 { position: absolute; top: 48px; left: 8px; width: 304px; height: 384px; }
+
+#Container38 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image195 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image202 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#r_K1u5 { position: absolute; top: 64px; left: 8px; width: 304px; height: 312px; }
+
+#Label48 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#ccK1u5h63_64 { position: absolute; top: 40px; left: 368px; width: 168px; height: 37px; }
+
+#ccK1u5h65_66 { position: absolute; top: 96px; left: 368px; width: 176px; height: 37px; }
+
+#Image203 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#ccK1u5h67_68 { position: absolute; top: 144px; left: 368px; width: 160px; height: 37px; }
+
+#ccK1u5h69_70 { position: absolute; top: 192px; left: 368px; width: 152px; height: 37px; }
+
+#ccK1u5h71_72 { position: absolute; top: 240px; left: 368px; width: 176px; height: 37px; }
+
+#ccK1u5h73_74 { position: absolute; top: 288px; left: 368px; width: 152px; height: 37px; }
+
+#ccK1u5h75_76 { position: absolute; top: 336px; left: 368px; width: 144px; height: 37px; }
+
+#ccK1u5h77_78 { position: absolute; top: 32px; left: 576px; width: 144px; height: 37px; }
+
+#ccK1u5h79_80 { position: absolute; top: 88px; left: 576px; width: 144px; height: 37px; }
+
+#Container41 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image207 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image208 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#r_K1u3 { position: absolute; top: 64px; left: 8px; width: 304px; height: 288px; }
+
+#Label49 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#ccK1u3h31_32 { position: absolute; top: 40px; left: 368px; width: 160px; height: 37px; }
+
+#ccK1u3h33_34 { position: absolute; top: 96px; left: 368px; width: 128px; height: 37px; }
+
+#Image209 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#ccK1u3h35_36 { position: absolute; top: 144px; left: 368px; width: 128px; height: 37px; }
+
+#ccK1u3h37_38 { position: absolute; top: 192px; left: 368px; width: 128px; height: 37px; }
+
+#ccK1u3h39_40 { position: absolute; top: 240px; left: 368px; width: 168px; height: 37px; }
+
+#ccK1u3h41_42 { position: absolute; top: 288px; left: 368px; width: 152px; height: 37px; }
+
+#ccK1u3h43_44 { position: absolute; top: 336px; left: 368px; width: 144px; height: 37px; }
+
+#ccK1u3h45_46 { position: absolute; top: 40px; left: 552px; width: 144px; height: 37px; }
+
+#MediaPlayer60 { position: absolute; top: 64px; left: 8px; width: 304px; height: 40px; }
+
+#Container42 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image221 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image222 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label50 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image223 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image523 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container43 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image224 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image225 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label51 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image226 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image524 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#k1_u3_video { position: absolute; top: 136px; left: 360px; width: 304px; height: 200px; }
+
+#close_k1_u3_video { position: absolute; top: 80px; left: 496px; width: 24px; height: 24px; }
+
+#Image694 { position: absolute; top: 64px; left: 8px; width: 304px; height: 120px; }
+
+#Image695 { position: absolute; top: 192px; left: 8px; width: 304px; height: 120px; }
+
+#Image696 { position: absolute; top: 320px; left: 8px; width: 304px; height: 120px; }
+
+#Image697 { position: absolute; top: 448px; left: 8px; width: 304px; height: 120px; }
+
+#Image698 { position: absolute; top: 576px; left: 8px; width: 304px; height: 120px; }
+
+#Image699 { position: absolute; top: 704px; left: 8px; width: 304px; height: 120px; }
+
+#Image700 { position: absolute; top: 832px; left: 8px; width: 304px; height: 120px; }
+
+#Image701 { position: absolute; top: 960px; left: 8px; width: 304px; height: 120px; }
+
+#Container44 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image227 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image228 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image229 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label52 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image230 { position: absolute; top: 184px; left: 184px; width: 84px; height: 88px; }
+
+#Image231 { position: absolute; top: 184px; left: 40px; width: 84px; height: 91px; }
+
+#Image232 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#Image233 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent81 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#yesk1u31 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#nok1u31 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#circle { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#square { position: absolute; top: 176px; left: 384px; width: 152px; height: 48px; }
+
+#Container45 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image234 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image235 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image236 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label53 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image237 { position: absolute; top: 184px; left: 184px; width: 84px; height: 88px; }
+
+#Image238 { position: absolute; top: 184px; left: 40px; width: 84px; height: 91px; }
+
+#Image239 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#heart { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#star { position: absolute; top: 176px; left: 384px; width: 152px; height: 48px; }
+
+#Image240 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent27 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image782 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image783 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container46 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image241 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image242 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image243 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label54 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image244 { position: absolute; top: 192px; left: 32px; width: 84px; height: 128px; }
+
+#Image245 { position: absolute; top: 200px; left: 168px; width: 108px; height: 112px; }
+
+#Image246 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#diamond { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#oval { position: absolute; top: 176px; left: 384px; width: 152px; height: 48px; }
+
+#Image247 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent28 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image784 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image785 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container47 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image248 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image249 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image250 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label55 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image251 { position: absolute; top: 192px; left: 32px; width: 84px; height: 104px; }
+
+#Image252 { position: absolute; top: 192px; left: 184px; width: 108px; height: 104px; }
+
+#Image253 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#trapezoid { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#triangle { position: absolute; top: 176px; left: 384px; width: 152px; height: 48px; }
+
+#Image254 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent29 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image786 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image787 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container48 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image255 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image256 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image257 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label56 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image258 { position: absolute; top: 184px; left: 176px; width: 80px; height: 80px; }
+
+#Image259 { position: absolute; top: 176px; left: 32px; width: 96px; height: 96px; }
+
+#Image260 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#number1 { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#number2 { position: absolute; top: 176px; left: 384px; width: 152px; height: 48px; }
+
+#Image264 { position: absolute; top: 288px; left: 96px; width: 80px; height: 80px; }
+
+#number3 { position: absolute; top: 232px; left: 384px; width: 152px; height: 48px; }
+
+#Image261 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent30 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image788 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image789 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container49 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image262 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image263 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image265 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label57 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image266 { position: absolute; top: 184px; left: 32px; width: 80px; height: 80px; }
+
+#Image267 { position: absolute; top: 288px; left: 96px; width: 96px; height: 96px; }
+
+#Image268 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#number4 { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#number5 { position: absolute; top: 176px; left: 384px; width: 152px; height: 48px; }
+
+#Image272 { position: absolute; top: 184px; left: 184px; width: 80px; height: 80px; }
+
+#number6 { position: absolute; top: 232px; left: 384px; width: 152px; height: 48px; }
+
+#Image269 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent31 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image790 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image791 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container50 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image270 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image271 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image273 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label58 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image274 { position: absolute; top: 168px; left: 24px; width: 88px; height: 96px; }
+
+#Image275 { position: absolute; top: 160px; left: 168px; width: 96px; height: 96px; }
+
+#Image276 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#number7 { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#number8 { position: absolute; top: 176px; left: 384px; width: 152px; height: 48px; }
+
+#Image280 { position: absolute; top: 288px; left: 96px; width: 96px; height: 96px; }
+
+#number9 { position: absolute; top: 232px; left: 384px; width: 152px; height: 48px; }
+
+#Image277 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent39 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image792 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image793 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container51 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image278 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image279 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image281 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label59 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image282 { position: absolute; top: 168px; left: 24px; width: 88px; height: 96px; }
+
+#Image283 { position: absolute; top: 168px; left: 168px; width: 96px; height: 96px; }
+
+#Image284 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#number10 { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#number11 { position: absolute; top: 176px; left: 384px; width: 152px; height: 48px; }
+
+#Image288 { position: absolute; top: 288px; left: 96px; width: 96px; height: 96px; }
+
+#number12 { position: absolute; top: 232px; left: 384px; width: 152px; height: 48px; }
+
+#Image285 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent40 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image794 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image795 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container52 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image286 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image287 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image289 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label60 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image290 { position: absolute; top: 168px; left: 24px; width: 88px; height: 96px; }
+
+#Image291 { position: absolute; top: 168px; left: 168px; width: 96px; height: 96px; }
+
+#Image292 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#number13 { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#number14 { position: absolute; top: 176px; left: 384px; width: 152px; height: 48px; }
+
+#Image296 { position: absolute; top: 288px; left: 96px; width: 96px; height: 96px; }
+
+#number15 { position: absolute; top: 232px; left: 384px; width: 152px; height: 48px; }
+
+#Image293 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent41 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image796 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image797 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container53 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image294 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image295 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image297 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label61 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image298 { position: absolute; top: 168px; left: 24px; width: 88px; height: 96px; }
+
+#Image299 { position: absolute; top: 152px; left: 168px; width: 104px; height: 112px; }
+
+#Image300 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#number16 { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#number17 { position: absolute; top: 176px; left: 384px; width: 152px; height: 48px; }
+
+#Image304 { position: absolute; top: 288px; left: 96px; width: 96px; height: 96px; }
+
+#number18 { position: absolute; top: 232px; left: 384px; width: 152px; height: 48px; }
+
+#Image301 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent42 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image798 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image799 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#Container54 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image302 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image303 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image305 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label62 { position: absolute; top: 120px; left: 48px; width: 168px; height: 24px; font-size: 20px;}
+
+#Image306 { position: absolute; top: 168px; left: 24px; width: 88px; height: 96px; }
+
+#Image307 { position: absolute; top: 168px; left: 176px; width: 96px; height: 96px; }
+
+#Image308 { position: absolute; top: 112px; left: 24px; width: 24px; height: 24px; }
+
+#anumber8 { position: absolute; top: 120px; left: 384px; width: 152px; height: 48px; }
+
+#number19 { position: absolute; top: 176px; left: 384px; width: 152px; height: 48px; }
+
+#Image312 { position: absolute; top: 288px; left: 96px; width: 96px; height: 96px; }
+
+#number20 { position: absolute; top: 232px; left: 384px; width: 152px; height: 48px; }
+
+#Image309 { position: absolute; top: 432px; left: 136px; width: 48px; height: 40px; }
+
+#HtmlContent43 { position: absolute; top: 448px; left: 8px; width: 128px; height: 28px; }
+
+#Image800 { position: absolute; top: 432px; left: 272px; width: 43px; height: 39px; }
+
+#Image801 { position: absolute; top: 432px; left: 224px; width: 43px; height: 39px; }
+
+#MediaPlayer21 { position: absolute; top: 64px; left: 8px; width: 304px; height: 40px; }
+
+#Container55 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image310 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image311 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label63 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image313 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image525 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container56 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image314 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image315 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label64 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image316 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#HtmlContent100 { position: absolute; top: 64px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent107 { position: absolute; top: 240px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent108 { position: absolute; top: 416px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent109 { position: absolute; top: 592px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent110 { position: absolute; top: 768px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent111 { position: absolute; top: 944px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent112 { position: absolute; top: 1120px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent113 { position: absolute; top: 1296px; left: 8px; width: 304px; height: 168px; }
+
+#Image526 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container57 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image206 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image317 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#r_K1u6 { position: absolute; top: 64px; left: 8px; width: 304px; height: 312px; }
+
+#Label65 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#ccK1u6h81_82 { position: absolute; top: 40px; left: 368px; width: 168px; height: 37px; }
+
+#ccK1u6h83_84 { position: absolute; top: 96px; left: 368px; width: 176px; height: 37px; }
+
+#Image318 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#HtmlContent99 { position: absolute; top: 584px; left: 48px; width: 224px; height: 18px; }
+
+#ccK1u6h85_86 { position: absolute; top: 144px; left: 368px; width: 160px; height: 37px; }
+
+#ccK1u6h87_88 { position: absolute; top: 192px; left: 368px; width: 152px; height: 37px; }
+
+#ccK1u6h89_90 { position: absolute; top: 240px; left: 368px; width: 176px; height: 37px; }
+
+#ccK1u6h91_92 { position: absolute; top: 288px; left: 368px; width: 152px; height: 37px; }
+
+#ccK1u6h93_94 { position: absolute; top: 336px; left: 368px; width: 144px; height: 37px; }
+
+#ccK1u6h95_96 { position: absolute; top: 32px; left: 576px; width: 144px; height: 37px; }
+
+#Image527 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#MediaPlayer22 { position: absolute; top: 64px; left: 8px; width: 304px; height: 40px; }
+
+#Container58 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image321 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image322 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label66 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image323 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image528 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container59 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image324 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image325 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label67 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image326 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image529 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#k1_u6_video { position: absolute; top: 136px; left: 360px; width: 304px; height: 200px; }
+
+#close_k1_u6_video { position: absolute; top: 80px; left: 496px; width: 24px; height: 24px; }
+
+#Image755 { position: absolute; top: 64px; left: 8px; width: 304px; height: 120px; }
+
+#Image756 { position: absolute; top: 192px; left: 8px; width: 304px; height: 120px; }
+
+#Image740 { position: absolute; top: 320px; left: 8px; width: 304px; height: 120px; }
+
+#Image757 { position: absolute; top: 448px; left: 8px; width: 304px; height: 120px; }
+
+#Image802 { position: absolute; top: 576px; left: 8px; width: 304px; height: 120px; }
+
+#Image803 { position: absolute; top: 704px; left: 8px; width: 304px; height: 120px; }
+
+#Image804 { position: absolute; top: 832px; left: 8px; width: 304px; height: 120px; }
+
+#Container61 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image402 { position: absolute; top: 8px; left: 240px; width: 24px; height: 24px; }
+
+#Image331 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image332 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#r_K2u1 { position: absolute; top: 64px; left: 8px; width: 304px; height: 288px; }
+
+#Label76 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#ccK2u1h1_2 { position: absolute; top: 40px; left: 368px; width: 128px; height: 37px; }
+
+#ccK2u1h3_4 { position: absolute; top: 96px; left: 368px; width: 128px; height: 37px; }
+
+#Image333 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#ccK2u1h5_6 { position: absolute; top: 144px; left: 368px; width: 128px; height: 37px; }
+
+#ccK2u1h7_8 { position: absolute; top: 192px; left: 368px; width: 128px; height: 37px; }
+
+#ccK2u1h9_10 { position: absolute; top: 240px; left: 368px; width: 128px; height: 37px; }
+
+#ccK2u1h11_12 { position: absolute; top: 288px; left: 368px; width: 152px; height: 37px; }
+
+#ccK2u1h13_14 { position: absolute; top: 336px; left: 368px; width: 144px; height: 37px; }
+
+#ccK2u1h15_16 { position: absolute; top: 40px; left: 512px; width: 144px; height: 37px; }
+
+#Container62 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image401 { position: absolute; top: 8px; left: 240px; width: 24px; height: 24px; }
+
+#Image337 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image338 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label77 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image339 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label78 { position: absolute; top: 72px; left: 8px; width: 200px; height: 21px; }
+
+#Label79 { position: absolute; top: 272px; left: 8px; width: 200px; height: 21px; }
+
+#Label81 { position: absolute; top: 472px; left: 8px; width: 200px; height: 21px; }
+
+#MediaPlayer23 { position: absolute; top: 96px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer64 { position: absolute; top: 296px; left: 8px; width: 304px; height: 168px; }
+
+#Label101 { position: absolute; top: 672px; left: 8px; width: 200px; height: 21px; }
+
+#MediaPlayer65 { position: absolute; top: 496px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer66 { position: absolute; top: 696px; left: 8px; width: 304px; height: 168px; }
+
+#Label109 { position: absolute; top: 872px; left: 8px; width: 200px; height: 21px; }
+
+#MediaPlayer67 { position: absolute; top: 896px; left: 8px; width: 304px; height: 168px; }
+
+#Container63 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image400 { position: absolute; top: 8px; left: 240px; width: 24px; height: 24px; }
+
+#Image340 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image341 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label80 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image342 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer54 { position: absolute; top: 64px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer55 { position: absolute; top: 240px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer59 { position: absolute; top: 416px; left: 8px; width: 304px; height: 168px; }
+
+#Container64 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image336 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image343 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#r_K1u7 { position: absolute; top: 64px; left: 8px; width: 304px; height: 288px; }
+
+#Label82 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#ccK1u7h97_98 { position: absolute; top: 40px; left: 368px; width: 168px; height: 37px; }
+
+#ccK1u7h99_100 { position: absolute; top: 96px; left: 368px; width: 176px; height: 37px; }
+
+#Image344 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#ccK1u7h101_102 { position: absolute; top: 144px; left: 368px; width: 160px; height: 37px; }
+
+#ccK1u7h103_104 { position: absolute; top: 192px; left: 368px; width: 152px; height: 37px; }
+
+#ccK1u7h105_106 { position: absolute; top: 240px; left: 368px; width: 176px; height: 37px; }
+
+#ccK1u7h107_108 { position: absolute; top: 288px; left: 368px; width: 152px; height: 37px; }
+
+#ccK1u7h109_110 { position: absolute; top: 336px; left: 368px; width: 144px; height: 37px; }
+
+#ccK1u7h111_112 { position: absolute; top: 40px; left: 576px; width: 144px; height: 37px; }
+
+#ccK1u7h113_114 { position: absolute; top: 104px; left: 584px; width: 144px; height: 37px; }
+
+#Image530 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#MediaPlayer24 { position: absolute; top: 64px; left: 8px; width: 304px; height: 40px; }
+
+#Container65 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image347 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image348 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label83 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image349 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image531 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container66 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image350 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image351 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label84 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image352 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#HtmlContent121 { position: absolute; top: 64px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent122 { position: absolute; top: 240px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent123 { position: absolute; top: 416px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent124 { position: absolute; top: 592px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent125 { position: absolute; top: 768px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent126 { position: absolute; top: 944px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent127 { position: absolute; top: 1120px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent128 { position: absolute; top: 1296px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent129 { position: absolute; top: 1472px; left: 8px; width: 304px; height: 168px; }
+
+#HtmlContent131 { position: absolute; top: 1648px; left: 8px; width: 304px; height: 168px; }
+
+#Image532 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container67 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image353 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image354 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label85 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image355 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer52 { position: absolute; top: 64px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer75 { position: absolute; top: 240px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer76 { position: absolute; top: 416px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer77 { position: absolute; top: 592px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer78 { position: absolute; top: 768px; left: 8px; width: 304px; height: 168px; }
+
+#Image533 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container68 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image356 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image357 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#r_K1u8 { position: absolute; top: 64px; left: 8px; width: 304px; height: 288px; }
+
+#Label86 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#ccK1u8h115_116 { position: absolute; top: 40px; left: 368px; width: 168px; height: 37px; }
+
+#ccK1u8h117_118 { position: absolute; top: 96px; left: 368px; width: 176px; height: 37px; }
+
+#Image358 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#ccK1u8h119_120 { position: absolute; top: 144px; left: 368px; width: 160px; height: 37px; }
+
+#ccK1u8h121_122 { position: absolute; top: 192px; left: 368px; width: 176px; height: 37px; }
+
+#ccK1u8h123_124 { position: absolute; top: 240px; left: 368px; width: 176px; height: 37px; }
+
+#ccK1u8h125_126 { position: absolute; top: 288px; left: 368px; width: 176px; height: 37px; }
+
+#ccK1u8h127_128 { position: absolute; top: 336px; left: 368px; width: 192px; height: 37px; }
+
+#Image534 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container69 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image399 { position: absolute; top: 8px; left: 240px; width: 24px; height: 24px; }
+
+#Image361 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image362 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#r_K2u2 { position: absolute; top: 64px; left: 8px; width: 304px; height: 264px; }
+
+#Label87 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#ccK2u2h17_18 { position: absolute; top: 40px; left: 368px; width: 128px; height: 37px; }
+
+#ccK2u2h19_20 { position: absolute; top: 96px; left: 368px; width: 128px; height: 37px; }
+
+#Image363 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#ccK2u2h21_22 { position: absolute; top: 144px; left: 368px; width: 128px; height: 37px; }
+
+#ccK2u2h23_24 { position: absolute; top: 192px; left: 368px; width: 128px; height: 37px; }
+
+#ccK2u2h25_26 { position: absolute; top: 240px; left: 368px; width: 128px; height: 37px; }
+
+#ccK2u2h27_28 { position: absolute; top: 288px; left: 368px; width: 152px; height: 37px; }
+
+#ccK2u2h29_30 { position: absolute; top: 336px; left: 368px; width: 144px; height: 37px; }
+
+#ccK2u2h31_32 { position: absolute; top: 40px; left: 512px; width: 144px; height: 37px; }
+
+#Container70 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image398 { position: absolute; top: 8px; left: 240px; width: 24px; height: 24px; }
+
+#Image366 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image367 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label88 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image368 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer34 { position: absolute; top: 64px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer35 { position: absolute; top: 240px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer56 { position: absolute; top: 416px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer57 { position: absolute; top: 592px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer58 { position: absolute; top: 768px; left: 8px; width: 304px; height: 168px; }
+
+#Container71 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image397 { position: absolute; top: 8px; left: 240px; width: 24px; height: 24px; }
+
+#Image369 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image370 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label89 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image371 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label90 { position: absolute; top: 72px; left: 8px; width: 200px; height: 21px; }
+
+#Label91 { position: absolute; top: 272px; left: 8px; width: 200px; height: 21px; }
+
+#Label92 { position: absolute; top: 672px; left: 8px; width: 200px; height: 21px; }
+
+#Label93 { position: absolute; top: 472px; left: 8px; width: 200px; height: 21px; }
+
+#Label94 { position: absolute; top: 1072px; left: 8px; width: 200px; height: 21px; }
+
+#MediaPlayer36 { position: absolute; top: 96px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer37 { position: absolute; top: 296px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer53 { position: absolute; top: 496px; left: 8px; width: 304px; height: 168px; }
+
+#Label110 { position: absolute; top: 872px; left: 8px; width: 200px; height: 21px; }
+
+#MediaPlayer61 { position: absolute; top: 696px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer62 { position: absolute; top: 896px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer68 { position: absolute; top: 1096px; left: 8px; width: 304px; height: 168px; }
+
+#Container72 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image396 { position: absolute; top: 8px; left: 240px; width: 24px; height: 24px; }
+
+#Image372 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image373 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#r_K2u3 { position: absolute; top: 64px; left: 8px; width: 304px; height: 264px; }
+
+#Label95 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#ccK2u3h33_34 { position: absolute; top: 40px; left: 368px; width: 136px; height: 37px; }
+
+#ccK2u3h35_36 { position: absolute; top: 96px; left: 368px; width: 136px; height: 37px; }
+
+#Image374 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#ccK2u3h37_38 { position: absolute; top: 144px; left: 368px; width: 128px; height: 37px; }
+
+#ccK2u3h39_40 { position: absolute; top: 192px; left: 368px; width: 128px; height: 37px; }
+
+#ccK2u3h41_42 { position: absolute; top: 240px; left: 368px; width: 128px; height: 37px; }
+
+#ccK2u3h43_44 { position: absolute; top: 288px; left: 368px; width: 152px; height: 37px; }
+
+#ccK2u3h45_46 { position: absolute; top: 336px; left: 368px; width: 144px; height: 37px; }
+
+#ccK2u3h47_48 { position: absolute; top: 40px; left: 520px; width: 144px; height: 37px; }
+
+#ccK2u3h49_50 { position: absolute; top: 88px; left: 512px; width: 144px; height: 37px; }
+
+#ccK2u3h51_52 { position: absolute; top: 136px; left: 512px; width: 144px; height: 37px; }
+
+#ccK2u3h53_54 { position: absolute; top: 184px; left: 512px; width: 144px; height: 37px; }
+
+#ccK2u3h55_56 { position: absolute; top: 232px; left: 520px; width: 144px; height: 37px; }
+
+#ccK2u3h57_58 { position: absolute; top: 280px; left: 528px; width: 144px; height: 37px; }
+
+#ccK2u3h59_60 { position: absolute; top: 328px; left: 528px; width: 144px; height: 37px; }
+
+#ccK2u3h61_62 { position: absolute; top: 376px; left: 528px; width: 144px; height: 37px; }
+
+#Container74 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image395 { position: absolute; top: 8px; left: 240px; width: 24px; height: 24px; }
+
+#Image380 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image381 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label99 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image382 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer27 { position: absolute; top: 64px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer70 { position: absolute; top: 240px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer71 { position: absolute; top: 416px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer72 { position: absolute; top: 592px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer73 { position: absolute; top: 768px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer74 { position: absolute; top: 944px; left: 8px; width: 304px; height: 168px; }
+
+#Container73 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image389 { position: absolute; top: 8px; left: 240px; width: 26px; height: 24px; }
+
+#Image377 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image378 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label96 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image379 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label97 { position: absolute; top: 72px; left: 8px; width: 200px; height: 21px; }
+
+#Label98 { position: absolute; top: 272px; left: 8px; width: 200px; height: 21px; }
+
+#Label100 { position: absolute; top: 472px; left: 8px; width: 200px; height: 21px; }
+
+#Label102 { position: absolute; top: 872px; left: 8px; width: 200px; height: 21px; }
+
+#Label103 { position: absolute; top: 672px; left: 8px; width: 200px; height: 21px; }
+
+#Label104 { position: absolute; top: 1072px; left: 8px; width: 200px; height: 21px; }
+
+#Label105 { position: absolute; top: 1272px; left: 8px; width: 200px; height: 21px; }
+
+#Label106 { position: absolute; top: 1472px; left: 8px; width: 200px; height: 21px; }
+
+#Label107 { position: absolute; top: 1672px; left: 8px; width: 200px; height: 21px; }
+
+#Label108 { position: absolute; top: 1872px; left: 8px; width: 200px; height: 21px; }
+
+#MediaPlayer69 { position: absolute; top: 696px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer25 { position: absolute; top: 96px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer26 { position: absolute; top: 296px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer28 { position: absolute; top: 496px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer29 { position: absolute; top: 896px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer30 { position: absolute; top: 1096px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer31 { position: absolute; top: 1296px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer32 { position: absolute; top: 1496px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer33 { position: absolute; top: 1696px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer63 { position: absolute; top: 1896px; left: 8px; width: 304px; height: 168px; }
+
+#Label117 { position: absolute; top: 2072px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Label123 { position: absolute; top: 2096px; left: 8px; width: 200px; height: 21px; }
+
+#MediaPlayer95 { position: absolute; top: 2120px; left: 8px; width: 304px; height: 40px; }
+
+#Label126 { position: absolute; top: 2168px; left: 8px; width: 200px; height: 21px; }
+
+#MediaPlayer96 { position: absolute; top: 2192px; left: 8px; width: 304px; height: 40px; }
+
+#Label130 { position: absolute; top: 2240px; left: 8px; width: 200px; height: 21px; }
+
+#MediaPlayer97 { position: absolute; top: 2264px; left: 8px; width: 304px; height: 40px; }
+
+#Label131 { position: absolute; top: 2312px; left: 8px; width: 200px; height: 21px; }
+
+#MediaPlayer98 { position: absolute; top: 2336px; left: 8px; width: 304px; height: 40px; }
+
+#Label132 { position: absolute; top: 2384px; left: 8px; width: 200px; height: 21px; }
+
+#MediaPlayer99 { position: absolute; top: 2408px; left: 8px; width: 304px; height: 40px; }
+
+#Label133 { position: absolute; top: 2456px; left: 8px; width: 200px; height: 21px; }
+
+#MediaPlayer100 { position: absolute; top: 2480px; left: 8px; width: 304px; height: 40px; }
+
+#Container75 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image383 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image384 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#r_K1u10 { position: absolute; top: 64px; left: 8px; width: 304px; height: 288px; }
+
+#Label111 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#ccK1u10h147_148 { position: absolute; top: 40px; left: 368px; width: 168px; height: 37px; }
+
+#Image385 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#ccK1u10h149_150 { position: absolute; top: 96px; left: 368px; width: 160px; height: 37px; }
+
+#ccK1u10h151_152 { position: absolute; top: 152px; left: 360px; width: 176px; height: 37px; }
+
+#ccK1u10h153_154 { position: absolute; top: 200px; left: 368px; width: 176px; height: 37px; }
+
+#ccK1u10h155_156 { position: absolute; top: 248px; left: 368px; width: 176px; height: 37px; }
+
+#ccK1u10h157_158 { position: absolute; top: 304px; left: 360px; width: 192px; height: 37px; }
+
+#ccK1u10h159_160 { position: absolute; top: 56px; left: 544px; width: 192px; height: 37px; }
+
+#ccK1u10h161_162 { position: absolute; top: 104px; left: 544px; width: 192px; height: 37px; }
+
+#ccK1u10h163_164 { position: absolute; top: 152px; left: 552px; width: 192px; height: 37px; }
+
+#Container76 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image388 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#r_K2u4 { position: absolute; top: 64px; left: 8px; width: 304px; height: 264px; }
+
+#Label112 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#ccK2u4h63_64 { position: absolute; top: 40px; left: 368px; width: 136px; height: 37px; }
+
+#ccK2u4h65_66 { position: absolute; top: 96px; left: 368px; width: 136px; height: 37px; }
+
+#Image390 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#ccK2u4h67_68 { position: absolute; top: 144px; left: 368px; width: 128px; height: 37px; }
+
+#ccK2u4h69_70 { position: absolute; top: 192px; left: 368px; width: 128px; height: 37px; }
+
+#ccK2u4h71_72 { position: absolute; top: 240px; left: 368px; width: 128px; height: 37px; }
+
+#ccK2u4h73_74 { position: absolute; top: 288px; left: 368px; width: 152px; height: 37px; }
+
+#ccK2u4h75_76 { position: absolute; top: 336px; left: 368px; width: 144px; height: 37px; }
+
+#ccK2u4h77_78 { position: absolute; top: 40px; left: 520px; width: 144px; height: 37px; }
+
+#ccK2u4h79_80 { position: absolute; top: 88px; left: 512px; width: 144px; height: 37px; }
+
+#ccK2u4h81_82 { position: absolute; top: 136px; left: 512px; width: 144px; height: 37px; }
+
+#ccK2u4h83_84 { position: absolute; top: 184px; left: 512px; width: 144px; height: 37px; }
+
+#ccK2u4h85_86 { position: absolute; top: 232px; left: 520px; width: 144px; height: 37px; }
+
+#Image393 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image394 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container77 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image407 { position: absolute; top: 8px; left: 240px; width: 26px; height: 24px; }
+
+#Image408 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image409 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label113 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image410 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer101 { position: absolute; top: 64px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer102 { position: absolute; top: 240px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer103 { position: absolute; top: 416px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer104 { position: absolute; top: 592px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer105 { position: absolute; top: 768px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer106 { position: absolute; top: 944px; left: 8px; width: 304px; height: 168px; }
+
+#Label116 { position: absolute; top: 1920px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#MediaPlayer113 { position: absolute; top: 1968px; left: 8px; width: 304px; height: 40px; }
+
+#Label118 { position: absolute; top: 1120px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer86 { position: absolute; top: 1144px; left: 8px; width: 304px; height: 168px; }
+
+#Label119 { position: absolute; top: 1320px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer87 { position: absolute; top: 1344px; left: 8px; width: 304px; height: 168px; }
+
+#Label120 { position: absolute; top: 1520px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer88 { position: absolute; top: 1544px; left: 8px; width: 304px; height: 168px; }
+
+#Label121 { position: absolute; top: 1720px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer89 { position: absolute; top: 1744px; left: 8px; width: 304px; height: 168px; }
+
+#Label122 { position: absolute; top: 1944px; left: 8px; width: 216px; height: 21px; }
+
+#Label124 { position: absolute; top: 2016px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer90 { position: absolute; top: 2040px; left: 8px; width: 304px; height: 40px; }
+
+#Label125 { position: absolute; top: 2088px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer91 { position: absolute; top: 2112px; left: 8px; width: 304px; height: 40px; }
+
+#MediaPlayer92 { position: absolute; top: 2184px; left: 8px; width: 304px; height: 40px; }
+
+#Label127 { position: absolute; top: 2232px; left: 8px; width: 216px; height: 24px; }
+
+#Label128 { position: absolute; top: 2160px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer93 { position: absolute; top: 2256px; left: 8px; width: 304px; height: 40px; }
+
+#Label129 { position: absolute; top: 2304px; left: 8px; width: 216px; height: 24px; }
+
+#MediaPlayer94 { position: absolute; top: 2328px; left: 8px; width: 304px; height: 40px; }
+
+#Container78 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image406 { position: absolute; top: 8px; left: 240px; width: 24px; height: 24px; }
+
+#Image411 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image412 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label114 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image413 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer107 { position: absolute; top: 64px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer108 { position: absolute; top: 240px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer109 { position: absolute; top: 416px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer110 { position: absolute; top: 592px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer111 { position: absolute; top: 768px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer112 { position: absolute; top: 64px; left: 8px; width: 304px; height: 40px; }
+
+#Container79 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image414 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image415 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label115 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image416 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Container80 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image417 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image418 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label134 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image419 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Container81 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image420 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image421 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label135 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image422 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer79 { position: absolute; top: 64px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer80 { position: absolute; top: 240px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer81 { position: absolute; top: 416px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer82 { position: absolute; top: 592px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer83 { position: absolute; top: 768px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer84 { position: absolute; top: 944px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer85 { position: absolute; top: 1120px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer114 { position: absolute; top: 1296px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer115 { position: absolute; top: 1472px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer116 { position: absolute; top: 1648px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer117 { position: absolute; top: 1824px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer118 { position: absolute; top: 2000px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer119 { position: absolute; top: 2176px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer120 { position: absolute; top: 2352px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer121 { position: absolute; top: 2528px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer122 { position: absolute; top: 2704px; left: 8px; width: 304px; height: 168px; }
+
+#Container82 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image423 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#r_K2u5 { position: absolute; top: 64px; left: 8px; width: 304px; height: 264px; }
+
+#Label136 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#MediaPlayer123 { position: absolute; top: 40px; left: 368px; width: 136px; height: 37px; }
+
+#MediaPlayer124 { position: absolute; top: 96px; left: 368px; width: 136px; height: 37px; }
+
+#Image424 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer125 { position: absolute; top: 144px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer126 { position: absolute; top: 192px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer127 { position: absolute; top: 240px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer128 { position: absolute; top: 288px; left: 368px; width: 152px; height: 37px; }
+
+#MediaPlayer129 { position: absolute; top: 336px; left: 368px; width: 144px; height: 37px; }
+
+#MediaPlayer130 { position: absolute; top: 40px; left: 520px; width: 144px; height: 37px; }
+
+#MediaPlayer131 { position: absolute; top: 88px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer132 { position: absolute; top: 136px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer133 { position: absolute; top: 184px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer134 { position: absolute; top: 232px; left: 520px; width: 144px; height: 37px; }
+
+#Image427 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image428 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container83 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image429 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image430 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image431 { position: absolute; top: 184px; left: 40px; width: 72px; height: 64px; }
+
+#Image432 { position: absolute; top: 176px; left: 192px; width: 104px; height: 96px; }
+
+#HtmlContent132 { position: absolute; top: 296px; left: 48px; width: 224px; height: 18px; }
+
+#Image433 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image434 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Image435 { position: absolute; top: 64px; left: 112px; width: 96px; height: 88px; }
+
+#Label188 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Container84 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image425 { position: absolute; top: 8px; left: 240px; width: 26px; height: 24px; }
+
+#Image426 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image436 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label137 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image437 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label139 { position: absolute; top: 72px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer142 { position: absolute; top: 88px; left: 8px; width: 304px; height: 168px; }
+
+#Label149 { position: absolute; top: 264px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer151 { position: absolute; top: 288px; left: 8px; width: 304px; height: 168px; }
+
+#Label150 { position: absolute; top: 464px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer152 { position: absolute; top: 488px; left: 8px; width: 304px; height: 168px; }
+
+#Label151 { position: absolute; top: 664px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer153 { position: absolute; top: 688px; left: 8px; width: 304px; height: 168px; }
+
+#Label152 { position: absolute; top: 864px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer154 { position: absolute; top: 888px; left: 8px; width: 304px; height: 168px; }
+
+#Label153 { position: absolute; top: 1064px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer155 { position: absolute; top: 1088px; left: 8px; width: 304px; height: 168px; }
+
+#Label154 { position: absolute; top: 1264px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer156 { position: absolute; top: 1288px; left: 8px; width: 304px; height: 168px; }
+
+#Label155 { position: absolute; top: 1464px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer157 { position: absolute; top: 1488px; left: 8px; width: 304px; height: 168px; }
+
+#Label156 { position: absolute; top: 1664px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer158 { position: absolute; top: 1688px; left: 8px; width: 304px; height: 168px; }
+
+#Label157 { position: absolute; top: 1864px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer159 { position: absolute; top: 1888px; left: 8px; width: 304px; height: 168px; }
+
+#Container85 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image438 { position: absolute; top: 8px; left: 240px; width: 24px; height: 24px; }
+
+#Image439 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image440 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label138 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image441 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer135 { position: absolute; top: 64px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer136 { position: absolute; top: 240px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer137 { position: absolute; top: 416px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer138 { position: absolute; top: 592px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer139 { position: absolute; top: 768px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer175 { position: absolute; top: 944px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer176 { position: absolute; top: 1120px; left: 8px; width: 304px; height: 168px; }
+
+#Container86 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image442 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image443 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#r_K1u11 { position: absolute; top: 64px; left: 8px; width: 304px; height: 288px; }
+
+#Label140 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#MediaPlayer140 { position: absolute; top: 40px; left: 368px; width: 168px; height: 37px; }
+
+#Image444 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer141 { position: absolute; top: 96px; left: 368px; width: 160px; height: 37px; }
+
+#MediaPlayer143 { position: absolute; top: 152px; left: 360px; width: 176px; height: 37px; }
+
+#MediaPlayer144 { position: absolute; top: 200px; left: 368px; width: 176px; height: 37px; }
+
+#MediaPlayer145 { position: absolute; top: 248px; left: 368px; width: 176px; height: 37px; }
+
+#MediaPlayer146 { position: absolute; top: 304px; left: 360px; width: 192px; height: 37px; }
+
+#MediaPlayer147 { position: absolute; top: 56px; left: 544px; width: 192px; height: 37px; }
+
+#MediaPlayer148 { position: absolute; top: 104px; left: 544px; width: 192px; height: 37px; }
+
+#MediaPlayer149 { position: absolute; top: 152px; left: 552px; width: 192px; height: 37px; }
+
+#Image535 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container88 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image450 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image451 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label142 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image452 { position: absolute; top: 0px; left: 16px; width: 40px; height: 34px; }
+
+#Image537 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container87 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image447 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image448 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label141 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image449 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer150 { position: absolute; top: 64px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer160 { position: absolute; top: 240px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer161 { position: absolute; top: 416px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer162 { position: absolute; top: 592px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer163 { position: absolute; top: 768px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer164 { position: absolute; top: 944px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer165 { position: absolute; top: 1120px; left: 8px; width: 304px; height: 168px; }
+
+#Image536 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container89 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image453 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image454 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image455 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image456 { position: absolute; top: 42px; left: 136px; width: 56px; height: 40px; }
+
+#Label143 { position: absolute; top: 88px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #ffad5b; padding-left: 20px;}
+
+#Label144 { position: absolute; top: 120px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #00ec76; padding-left: 20px;}
+
+#Label145 { position: absolute; top: 152px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #bb77ff; padding-left: 20px;}
+
+#Label146 { position: absolute; top: 184px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #26b9ff; padding-left: 20px;}
+
+#Label147 { position: absolute; top: 216px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #f0f000; padding-left: 20px;}
+
+#Label148 { position: absolute; top: 248px; left: 8px; width: 304px; height: 24px; font-size: 20px; text-align: left; background-color: #ff8080; padding-left: 20px;}
+
+#Container90 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image457 { position: absolute; top: 8px; left: 240px; width: 24px; height: 24px; }
+
+#Image458 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image459 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Image460 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Container91 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image461 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image462 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image463 { position: absolute; top: 192px; left: 48px; width: 72px; height: 64px; }
+
+#Image464 { position: absolute; top: 176px; left: 176px; width: 104px; height: 96px; }
+
+#HtmlContent133 { position: absolute; top: 296px; left: 48px; width: 224px; height: 18px; }
+
+#Image465 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image466 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Image492 { position: absolute; top: 80px; left: 112px; width: 96px; height: 88px; }
+
+#Label167 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; text-align: center; background-color: #ffb366;}
+
+#Container92 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image467 { position: absolute; top: 8px; left: 240px; width: 26px; height: 24px; }
+
+#Image468 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image469 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label160 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image470 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label161 { position: absolute; top: 72px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer166 { position: absolute; top: 88px; left: 8px; width: 304px; height: 168px; }
+
+#Label162 { position: absolute; top: 264px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer167 { position: absolute; top: 288px; left: 8px; width: 304px; height: 168px; }
+
+#Label168 { position: absolute; top: 464px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer211 { position: absolute; top: 488px; left: 8px; width: 304px; height: 168px; }
+
+#Label169 { position: absolute; top: 664px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer212 { position: absolute; top: 688px; left: 8px; width: 304px; height: 168px; }
+
+#Label170 { position: absolute; top: 864px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer213 { position: absolute; top: 888px; left: 8px; width: 304px; height: 168px; }
+
+#Label171 { position: absolute; top: 1064px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer217 { position: absolute; top: 1088px; left: 8px; width: 304px; height: 168px; }
+
+#Label172 { position: absolute; top: 1264px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer218 { position: absolute; top: 1288px; left: 8px; width: 304px; height: 168px; }
+
+#Container94 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image474 { position: absolute; top: 8px; left: 240px; width: 24px; height: 24px; }
+
+#Image475 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image476 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label164 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image477 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer177 { position: absolute; top: 64px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer178 { position: absolute; top: 240px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer179 { position: absolute; top: 416px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer180 { position: absolute; top: 592px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer181 { position: absolute; top: 768px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer182 { position: absolute; top: 944px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer183 { position: absolute; top: 1120px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer184 { position: absolute; top: 1296px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer185 { position: absolute; top: 1472px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer214 { position: absolute; top: 1648px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer215 { position: absolute; top: 1824px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer216 { position: absolute; top: 2000px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer219 { position: absolute; top: 2176px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer220 { position: absolute; top: 2352px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer221 { position: absolute; top: 2528px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer222 { position: absolute; top: 2704px; left: 8px; width: 304px; height: 168px; }
+
+#Container93 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image471 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image472 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image473 { position: absolute; top: 232px; left: 48px; width: 72px; height: 64px; }
+
+#Image478 { position: absolute; top: 216px; left: 192px; width: 104px; height: 96px; }
+
+#HtmlContent134 { position: absolute; top: 344px; left: 48px; width: 224px; height: 18px; }
+
+#Image479 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image480 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Image481 { position: absolute; top: 112px; left: 112px; width: 96px; height: 88px; }
+
+#Label159 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; text-align: center; background-color: #ffb366;}
+
+#Container95 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image482 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#r_K1u12 { position: absolute; top: 64px; left: 8px; width: 304px; height: 264px; }
+
+#Label158 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#MediaPlayer168 { position: absolute; top: 40px; left: 368px; width: 136px; height: 37px; }
+
+#MediaPlayer169 { position: absolute; top: 96px; left: 368px; width: 136px; height: 37px; }
+
+#Image483 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer170 { position: absolute; top: 144px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer171 { position: absolute; top: 192px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer172 { position: absolute; top: 240px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer173 { position: absolute; top: 288px; left: 368px; width: 152px; height: 37px; }
+
+#MediaPlayer174 { position: absolute; top: 336px; left: 368px; width: 144px; height: 37px; }
+
+#MediaPlayer186 { position: absolute; top: 40px; left: 520px; width: 144px; height: 37px; }
+
+#MediaPlayer187 { position: absolute; top: 88px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer188 { position: absolute; top: 136px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer189 { position: absolute; top: 184px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer190 { position: absolute; top: 232px; left: 520px; width: 144px; height: 37px; }
+
+#Image484 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image485 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container96 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image486 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image487 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label163 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image488 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image538 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container97 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image489 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image490 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label165 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image491 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer191 { position: absolute; top: 64px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer192 { position: absolute; top: 240px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer193 { position: absolute; top: 416px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer194 { position: absolute; top: 592px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer195 { position: absolute; top: 768px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer196 { position: absolute; top: 944px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer197 { position: absolute; top: 1120px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer198 { position: absolute; top: 1296px; left: 8px; width: 304px; height: 168px; }
+
+#Image539 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container98 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image493 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#r_S2u1 { position: absolute; top: 64px; left: 8px; width: 304px; height: 264px; }
+
+#Label166 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#MediaPlayer199 { position: absolute; top: 40px; left: 368px; width: 136px; height: 37px; }
+
+#MediaPlayer200 { position: absolute; top: 96px; left: 368px; width: 136px; height: 37px; }
+
+#Image494 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer201 { position: absolute; top: 144px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer202 { position: absolute; top: 192px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer203 { position: absolute; top: 240px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer204 { position: absolute; top: 288px; left: 368px; width: 152px; height: 37px; }
+
+#MediaPlayer205 { position: absolute; top: 336px; left: 368px; width: 144px; height: 37px; }
+
+#MediaPlayer206 { position: absolute; top: 40px; left: 520px; width: 144px; height: 37px; }
+
+#MediaPlayer207 { position: absolute; top: 88px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer208 { position: absolute; top: 136px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer209 { position: absolute; top: 184px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer210 { position: absolute; top: 232px; left: 520px; width: 144px; height: 37px; }
+
+#Image495 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image496 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container101 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image43 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image44 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label175 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image45 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image513 { position: absolute; top: 232px; left: 24px; width: 72px; height: 64px; }
+
+#Image514 { position: absolute; top: 224px; left: 104px; width: 104px; height: 96px; }
+
+#HtmlContent137 { position: absolute; top: 344px; left: 48px; width: 224px; height: 18px; }
+
+#Image515 { position: absolute; top: 112px; left: 112px; width: 96px; height: 88px; }
+
+#Image516 { position: absolute; top: 224px; left: 224px; width: 80px; height: 80px; }
+
+#Image540 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container102 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image541 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image542 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label176 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image543 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image544 { position: absolute; top: 232px; left: 24px; width: 72px; height: 64px; }
+
+#Image545 { position: absolute; top: 224px; left: 104px; width: 104px; height: 96px; }
+
+#HtmlContent73 { position: absolute; top: 344px; left: 48px; width: 224px; height: 18px; }
+
+#Image546 { position: absolute; top: 112px; left: 112px; width: 96px; height: 88px; }
+
+#Image547 { position: absolute; top: 224px; left: 224px; width: 80px; height: 80px; }
+
+#Image548 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container103 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image122 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image130 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label177 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image132 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image549 { position: absolute; top: 232px; left: 40px; width: 72px; height: 64px; }
+
+#Image550 { position: absolute; top: 224px; left: 184px; width: 104px; height: 96px; }
+
+#HtmlContent12 { position: absolute; top: 344px; left: 48px; width: 224px; height: 18px; }
+
+#Image551 { position: absolute; top: 112px; left: 112px; width: 96px; height: 88px; }
+
+#Image553 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container104 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image204 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image205 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label178 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image552 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image554 { position: absolute; top: 232px; left: 40px; width: 72px; height: 64px; }
+
+#Image555 { position: absolute; top: 224px; left: 184px; width: 104px; height: 96px; }
+
+#HtmlContent34 { position: absolute; top: 344px; left: 48px; width: 224px; height: 18px; }
+
+#Image556 { position: absolute; top: 112px; left: 112px; width: 96px; height: 88px; }
+
+#Image557 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container105 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image319 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image320 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label179 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image345 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image346 { position: absolute; top: 232px; left: 40px; width: 72px; height: 64px; }
+
+#Image558 { position: absolute; top: 224px; left: 184px; width: 104px; height: 96px; }
+
+#HtmlContent68 { position: absolute; top: 344px; left: 48px; width: 224px; height: 18px; }
+
+#Image559 { position: absolute; top: 112px; left: 112px; width: 96px; height: 88px; }
+
+#Image560 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container106 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image359 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image360 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label180 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image561 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image562 { position: absolute; top: 232px; left: 40px; width: 72px; height: 64px; }
+
+#Image563 { position: absolute; top: 224px; left: 184px; width: 104px; height: 96px; }
+
+#HtmlContent138 { position: absolute; top: 344px; left: 48px; width: 224px; height: 18px; }
+
+#Image564 { position: absolute; top: 112px; left: 112px; width: 96px; height: 88px; }
+
+#Image565 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container107 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image193 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image194 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label181 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image566 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image567 { position: absolute; top: 232px; left: 40px; width: 72px; height: 64px; }
+
+#Image568 { position: absolute; top: 224px; left: 184px; width: 104px; height: 96px; }
+
+#HtmlContent53 { position: absolute; top: 344px; left: 48px; width: 224px; height: 18px; }
+
+#Image569 { position: absolute; top: 112px; left: 112px; width: 96px; height: 88px; }
+
+#Image570 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container108 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image386 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image387 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label182 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image571 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image572 { position: absolute; top: 232px; left: 40px; width: 72px; height: 64px; }
+
+#Image573 { position: absolute; top: 224px; left: 184px; width: 104px; height: 96px; }
+
+#HtmlContent119 { position: absolute; top: 344px; left: 48px; width: 224px; height: 18px; }
+
+#Image574 { position: absolute; top: 112px; left: 112px; width: 96px; height: 88px; }
+
+#Image575 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container109 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image445 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image446 { position: absolute; top: 10px; left: 264px; width: 20px; height: 20px; }
+
+#Label183 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image576 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image577 { position: absolute; top: 232px; left: 40px; width: 72px; height: 64px; }
+
+#Image578 { position: absolute; top: 224px; left: 184px; width: 104px; height: 96px; }
+
+#HtmlContent120 { position: absolute; top: 344px; left: 48px; width: 224px; height: 18px; }
+
+#Image579 { position: absolute; top: 112px; left: 112px; width: 96px; height: 88px; }
+
+#Image580 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container110 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image334 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image335 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image581 { position: absolute; top: 184px; left: 40px; width: 72px; height: 64px; }
+
+#Image582 { position: absolute; top: 176px; left: 192px; width: 104px; height: 96px; }
+
+#HtmlContent102 { position: absolute; top: 296px; left: 48px; width: 224px; height: 18px; }
+
+#Image583 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image584 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Image585 { position: absolute; top: 64px; left: 112px; width: 96px; height: 88px; }
+
+#Label184 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Label185 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Container111 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image364 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image365 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image586 { position: absolute; top: 184px; left: 40px; width: 72px; height: 64px; }
+
+#Image587 { position: absolute; top: 176px; left: 192px; width: 104px; height: 96px; }
+
+#HtmlContent130 { position: absolute; top: 296px; left: 48px; width: 224px; height: 18px; }
+
+#Image588 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image589 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Image590 { position: absolute; top: 64px; left: 112px; width: 96px; height: 88px; }
+
+#Label186 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Container112 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image375 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image376 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image591 { position: absolute; top: 184px; left: 40px; width: 72px; height: 64px; }
+
+#Image592 { position: absolute; top: 176px; left: 192px; width: 104px; height: 96px; }
+
+#HtmlContent117 { position: absolute; top: 296px; left: 48px; width: 224px; height: 18px; }
+
+#Image593 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image594 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Image595 { position: absolute; top: 64px; left: 112px; width: 96px; height: 88px; }
+
+#Label187 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Container113 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image391 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image392 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image596 { position: absolute; top: 184px; left: 40px; width: 72px; height: 64px; }
+
+#Image597 { position: absolute; top: 176px; left: 192px; width: 104px; height: 96px; }
+
+#HtmlContent118 { position: absolute; top: 296px; left: 48px; width: 224px; height: 18px; }
+
+#Image598 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image599 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Image600 { position: absolute; top: 64px; left: 112px; width: 96px; height: 88px; }
+
+#Container114 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image601 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image602 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image603 { position: absolute; top: 184px; left: 40px; width: 72px; height: 64px; }
+
+#Image604 { position: absolute; top: 176px; left: 192px; width: 104px; height: 96px; }
+
+#HtmlContent139 { position: absolute; top: 296px; left: 48px; width: 224px; height: 18px; }
+
+#Image605 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image606 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Image607 { position: absolute; top: 64px; left: 112px; width: 96px; height: 88px; }
+
+#Label192 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Container115 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image608 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#r_K2u6 { position: absolute; top: 64px; left: 8px; width: 304px; height: 264px; }
+
+#MediaPlayer223 { position: absolute; top: 40px; left: 368px; width: 136px; height: 37px; }
+
+#MediaPlayer224 { position: absolute; top: 96px; left: 368px; width: 136px; height: 37px; }
+
+#Image609 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer225 { position: absolute; top: 144px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer226 { position: absolute; top: 192px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer227 { position: absolute; top: 240px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer228 { position: absolute; top: 288px; left: 368px; width: 152px; height: 37px; }
+
+#MediaPlayer229 { position: absolute; top: 336px; left: 368px; width: 144px; height: 37px; }
+
+#MediaPlayer230 { position: absolute; top: 40px; left: 520px; width: 144px; height: 37px; }
+
+#MediaPlayer231 { position: absolute; top: 88px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer232 { position: absolute; top: 136px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer233 { position: absolute; top: 184px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer234 { position: absolute; top: 232px; left: 520px; width: 144px; height: 37px; }
+
+#Image610 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image611 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Label193 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Container116 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image612 { position: absolute; top: 8px; left: 240px; width: 26px; height: 24px; }
+
+#Image613 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image614 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label189 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image615 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label190 { position: absolute; top: 72px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer235 { position: absolute; top: 88px; left: 8px; width: 304px; height: 168px; }
+
+#Label191 { position: absolute; top: 264px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer236 { position: absolute; top: 280px; left: 8px; width: 304px; height: 168px; }
+
+#Label194 { position: absolute; top: 456px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer237 { position: absolute; top: 480px; left: 8px; width: 304px; height: 168px; }
+
+#Label195 { position: absolute; top: 656px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer238 { position: absolute; top: 680px; left: 8px; width: 304px; height: 168px; }
+
+#Label196 { position: absolute; top: 856px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer239 { position: absolute; top: 880px; left: 8px; width: 304px; height: 168px; }
+
+#Label197 { position: absolute; top: 1056px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer240 { position: absolute; top: 1080px; left: 8px; width: 304px; height: 168px; }
+
+#Label198 { position: absolute; top: 1256px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer241 { position: absolute; top: 1272px; left: 8px; width: 304px; height: 168px; }
+
+#Label199 { position: absolute; top: 1448px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer242 { position: absolute; top: 1472px; left: 8px; width: 304px; height: 168px; }
+
+#Label200 { position: absolute; top: 1648px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer243 { position: absolute; top: 1672px; left: 8px; width: 304px; height: 168px; }
+
+#Label201 { position: absolute; top: 1848px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer244 { position: absolute; top: 1864px; left: 8px; width: 304px; height: 168px; }
+
+#Container117 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image616 { position: absolute; top: 8px; left: 240px; width: 26px; height: 24px; }
+
+#Image617 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image618 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label202 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image619 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer245 { position: absolute; top: 64px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer246 { position: absolute; top: 240px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer255 { position: absolute; top: 416px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer256 { position: absolute; top: 592px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer257 { position: absolute; top: 768px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer258 { position: absolute; top: 944px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer259 { position: absolute; top: 1120px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer260 { position: absolute; top: 1296px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer261 { position: absolute; top: 1472px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer262 { position: absolute; top: 1648px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer263 { position: absolute; top: 1824px; left: 8px; width: 304px; height: 168px; }
+
+#MediaPlayer264 { position: absolute; top: 2000px; left: 8px; width: 304px; height: 168px; }
+
+#Container118 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image620 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image621 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image622 { position: absolute; top: 192px; left: 48px; width: 72px; height: 64px; }
+
+#Image623 { position: absolute; top: 176px; left: 176px; width: 104px; height: 96px; }
+
+#HtmlContent140 { position: absolute; top: 296px; left: 48px; width: 224px; height: 18px; }
+
+#Image624 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image625 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Image626 { position: absolute; top: 80px; left: 112px; width: 96px; height: 88px; }
+
+#Label203 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; text-align: center; background-color: #ffb366;}
+
+#Container119 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image627 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#r_S2u2 { position: absolute; top: 64px; left: 8px; width: 304px; height: 264px; }
+
+#Label204 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image628 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image629 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image630 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container120 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image631 { position: absolute; top: 8px; left: 240px; width: 26px; height: 24px; }
+
+#Image632 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image633 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label205 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image634 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label206 { position: absolute; top: 72px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer247 { position: absolute; top: 88px; left: 8px; width: 304px; height: 48px; }
+
+#Label207 { position: absolute; top: 144px; left: 8px; width: 216px; height: 21px; }
+
+#Label211 { position: absolute; top: 432px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer254 { position: absolute; top: 160px; left: 8px; width: 304px; height: 48px; }
+
+#MediaPlayer265 { position: absolute; top: 232px; left: 8px; width: 304px; height: 48px; }
+
+#Label213 { position: absolute; top: 216px; left: 8px; width: 216px; height: 16px; }
+
+#Label214 { position: absolute; top: 288px; left: 8px; width: 216px; height: 16px; }
+
+#MediaPlayer266 { position: absolute; top: 304px; left: 8px; width: 304px; height: 48px; }
+
+#Label215 { position: absolute; top: 360px; left: 8px; width: 216px; height: 16px; }
+
+#MediaPlayer267 { position: absolute; top: 376px; left: 8px; width: 304px; height: 48px; }
+
+#MediaPlayer268 { position: absolute; top: 448px; left: 8px; width: 304px; height: 48px; }
+
+#Label216 { position: absolute; top: 504px; left: 8px; width: 216px; height: 21px; }
+
+#Label217 { position: absolute; top: 576px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer271 { position: absolute; top: 520px; left: 8px; width: 304px; height: 48px; }
+
+#MediaPlayer272 { position: absolute; top: 592px; left: 8px; width: 304px; height: 48px; }
+
+#IFrame1 { position: absolute; top: 0px; left: 0px; width: 320px; height: 480px; }
+
+#iframe_test_video { position: absolute; top: 72px; left: 360px; width: 304px; height: 232px; }
+
+#IFrame { position: absolute; top: 144px; left: 64px; width: 149px; height: 49px; }
+
+#MediaPlayer249 { position: absolute; top: 328px; left: 360px; width: 320px; height: 136px; }
+
+#Media { position: absolute; top: 232px; left: 64px; width: 149px; height: 49px; }
+
+#close_test_video { position: absolute; top: 40px; left: 496px; width: 24px; height: 24px; }
+
+#Container121 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image657 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image658 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image659 { position: absolute; top: 184px; left: 40px; width: 72px; height: 64px; }
+
+#Image660 { position: absolute; top: 176px; left: 192px; width: 104px; height: 96px; }
+
+#HtmlContent4 { position: absolute; top: 296px; left: 48px; width: 224px; height: 18px; }
+
+#Image661 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image662 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Image663 { position: absolute; top: 64px; left: 112px; width: 96px; height: 88px; }
+
+#Label208 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Container122 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image664 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#r_K2u7 { position: absolute; top: 64px; left: 8px; width: 304px; height: 264px; }
+
+#MediaPlayer248 { position: absolute; top: 40px; left: 368px; width: 136px; height: 37px; }
+
+#MediaPlayer250 { position: absolute; top: 96px; left: 368px; width: 136px; height: 37px; }
+
+#Image665 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer251 { position: absolute; top: 144px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer252 { position: absolute; top: 192px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer253 { position: absolute; top: 240px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer269 { position: absolute; top: 288px; left: 368px; width: 152px; height: 37px; }
+
+#MediaPlayer270 { position: absolute; top: 336px; left: 368px; width: 144px; height: 37px; }
+
+#MediaPlayer273 { position: absolute; top: 40px; left: 520px; width: 144px; height: 37px; }
+
+#MediaPlayer274 { position: absolute; top: 88px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer275 { position: absolute; top: 136px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer276 { position: absolute; top: 184px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer277 { position: absolute; top: 232px; left: 520px; width: 144px; height: 37px; }
+
+#Image666 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image667 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Label209 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Container123 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image668 { position: absolute; top: 8px; left: 240px; width: 26px; height: 24px; }
+
+#Image669 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image670 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label210 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image671 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label212 { position: absolute; top: 72px; left: 8px; width: 216px; height: 21px; }
+
+#k2_u7_audio { position: absolute; top: 160px; left: 376px; width: 304px; height: 168px; }
+
+#Label218 { position: absolute; top: 328px; left: 8px; width: 216px; height: 21px; }
+
+#Image672 { position: absolute; top: 96px; left: 8px; width: 306px; height: 225px; }
+
+#close_k2_u7_audio { position: absolute; top: 96px; left: 504px; width: 24px; height: 24px; }
+
+#Image673 { position: absolute; top: 352px; left: 8px; width: 306px; height: 225px; }
+
+#Label219 { position: absolute; top: 584px; left: 8px; width: 216px; height: 21px; }
+
+#Image674 { position: absolute; top: 608px; left: 8px; width: 306px; height: 225px; }
+
+#Label220 { position: absolute; top: 840px; left: 8px; width: 216px; height: 21px; }
+
+#Image675 { position: absolute; top: 864px; left: 8px; width: 306px; height: 225px; }
+
+#Image676 { position: absolute; top: 1120px; left: 8px; width: 306px; height: 225px; }
+
+#Label221 { position: absolute; top: 1096px; left: 8px; width: 216px; height: 21px; }
+
+#Image677 { position: absolute; top: 1376px; left: 8px; width: 306px; height: 225px; }
+
+#Label222 { position: absolute; top: 1352px; left: 8px; width: 216px; height: 21px; }
+
+#Image678 { position: absolute; top: 1632px; left: 8px; width: 306px; height: 225px; }
+
+#Label223 { position: absolute; top: 1608px; left: 8px; width: 216px; height: 21px; }
+
+#Image679 { position: absolute; top: 1888px; left: 8px; width: 306px; height: 225px; }
+
+#Label224 { position: absolute; top: 1864px; left: 8px; width: 216px; height: 21px; }
+
+#Image680 { position: absolute; top: 2144px; left: 8px; width: 306px; height: 225px; }
+
+#Label225 { position: absolute; top: 2120px; left: 8px; width: 216px; height: 21px; }
+
+#Container124 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image681 { position: absolute; top: 8px; left: 240px; width: 26px; height: 24px; }
+
+#Image682 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image683 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label226 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image684 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#video_k2_u7 { position: absolute; top: 160px; left: 376px; width: 304px; height: 168px; }
+
+#close_k2_u7_video { position: absolute; top: 96px; left: 504px; width: 24px; height: 24px; }
+
+#Image687 { position: absolute; top: 64px; left: 8px; width: 304px; height: 184px; }
+
+#Image685 { position: absolute; top: 256px; left: 8px; width: 304px; height: 184px; }
+
+#Image686 { position: absolute; top: 448px; left: 8px; width: 304px; height: 184px; }
+
+#Image688 { position: absolute; top: 640px; left: 8px; width: 304px; height: 184px; }
+
+#Image689 { position: absolute; top: 832px; left: 8px; width: 304px; height: 184px; }
+
+#Image690 { position: absolute; top: 1024px; left: 8px; width: 304px; height: 184px; }
+
+#Image691 { position: absolute; top: 1216px; left: 8px; width: 304px; height: 184px; }
+
+#Image692 { position: absolute; top: 1408px; left: 8px; width: 304px; height: 184px; }
+
+#Container125 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image693 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image702 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image703 { position: absolute; top: 184px; left: 40px; width: 72px; height: 64px; }
+
+#Image704 { position: absolute; top: 176px; left: 192px; width: 104px; height: 96px; }
+
+#HtmlContent3 { position: absolute; top: 296px; left: 48px; width: 224px; height: 18px; }
+
+#Image705 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image706 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Image707 { position: absolute; top: 64px; left: 112px; width: 96px; height: 88px; }
+
+#Label227 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Container126 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image708 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image709 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image710 { position: absolute; top: 192px; left: 48px; width: 72px; height: 64px; }
+
+#Image711 { position: absolute; top: 176px; left: 176px; width: 104px; height: 96px; }
+
+#HtmlContent10 { position: absolute; top: 296px; left: 48px; width: 224px; height: 18px; }
+
+#Image712 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image713 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Image714 { position: absolute; top: 80px; left: 112px; width: 96px; height: 88px; }
+
+#Label228 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; text-align: center; background-color: #ffb366;}
+
+#Container127 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image715 { position: absolute; top: 8px; left: 240px; width: 26px; height: 24px; }
+
+#Image716 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image717 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label229 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image718 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label230 { position: absolute; top: 72px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer278 { position: absolute; top: 88px; left: 8px; width: 304px; height: 48px; }
+
+#Label231 { position: absolute; top: 144px; left: 8px; width: 216px; height: 21px; }
+
+#Label232 { position: absolute; top: 432px; left: 8px; width: 216px; height: 21px; }
+
+#MediaPlayer279 { position: absolute; top: 160px; left: 8px; width: 304px; height: 48px; }
+
+#MediaPlayer280 { position: absolute; top: 232px; left: 8px; width: 304px; height: 48px; }
+
+#Label233 { position: absolute; top: 216px; left: 8px; width: 216px; height: 16px; }
+
+#Label234 { position: absolute; top: 288px; left: 8px; width: 216px; height: 16px; }
+
+#MediaPlayer281 { position: absolute; top: 304px; left: 8px; width: 304px; height: 48px; }
+
+#Label235 { position: absolute; top: 360px; left: 8px; width: 216px; height: 16px; }
+
+#MediaPlayer282 { position: absolute; top: 376px; left: 8px; width: 304px; height: 48px; }
+
+#MediaPlayer283 { position: absolute; top: 448px; left: 8px; width: 304px; height: 48px; }
+
+#Container128 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image719 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#r_S2u3 { position: absolute; top: 64px; left: 8px; width: 304px; height: 264px; }
+
+#Label238 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image720 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Image721 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image722 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Container129 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image723 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#r_K2u8 { position: absolute; top: 64px; left: 8px; width: 304px; height: 264px; }
+
+#MediaPlayer284 { position: absolute; top: 40px; left: 368px; width: 136px; height: 37px; }
+
+#MediaPlayer285 { position: absolute; top: 96px; left: 368px; width: 136px; height: 37px; }
+
+#Image724 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#MediaPlayer286 { position: absolute; top: 144px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer287 { position: absolute; top: 192px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer288 { position: absolute; top: 240px; left: 368px; width: 128px; height: 37px; }
+
+#MediaPlayer289 { position: absolute; top: 288px; left: 368px; width: 152px; height: 37px; }
+
+#MediaPlayer290 { position: absolute; top: 336px; left: 368px; width: 144px; height: 37px; }
+
+#MediaPlayer291 { position: absolute; top: 40px; left: 520px; width: 144px; height: 37px; }
+
+#MediaPlayer292 { position: absolute; top: 88px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer293 { position: absolute; top: 136px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer294 { position: absolute; top: 184px; left: 512px; width: 144px; height: 37px; }
+
+#MediaPlayer295 { position: absolute; top: 232px; left: 520px; width: 144px; height: 37px; }
+
+#Image725 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Image726 { position: absolute; top: 8px; left: 240px; width: 20px; height: 24px; }
+
+#Label236 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Container130 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image727 { position: absolute; top: 8px; left: 240px; width: 26px; height: 24px; }
+
+#Image728 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image729 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label237 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image730 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#Label239 { position: absolute; top: 72px; left: 8px; width: 216px; height: 21px; }
+
+#k2_u8_audio { position: absolute; top: 160px; left: 376px; width: 304px; height: 168px; }
+
+#Image731 { position: absolute; top: 96px; left: 8px; width: 306px; height: 225px; }
+
+#close_k2_u8_audio { position: absolute; top: 96px; left: 504px; width: 24px; height: 24px; }
+
+#Image736 { position: absolute; top: 352px; left: 8px; width: 306px; height: 225px; }
+
+#Label243 { position: absolute; top: 328px; left: 8px; width: 216px; height: 21px; }
+
+#Image732 { position: absolute; top: 608px; left: 8px; width: 306px; height: 225px; }
+
+#Label240 { position: absolute; top: 584px; left: 8px; width: 216px; height: 21px; }
+
+#Image733 { position: absolute; top: 864px; left: 8px; width: 306px; height: 225px; }
+
+#Label241 { position: absolute; top: 840px; left: 8px; width: 216px; height: 21px; }
+
+#Image734 { position: absolute; top: 1120px; left: 8px; width: 306px; height: 225px; }
+
+#Label242 { position: absolute; top: 1096px; left: 8px; width: 216px; height: 21px; }
+
+#Container131 { position: absolute; top: 0px; left: 0px; width: 320px; height: 40px; background-color: #4BA24B;}
+
+#Image735 { position: absolute; top: 8px; left: 240px; width: 26px; height: 24px; }
+
+#Image737 { position: absolute; top: 8px; left: 288px; width: 24px; height: 24px; }
+
+#Image738 { position: absolute; top: 8px; left: 264px; width: 20px; height: 20px; }
+
+#Label244 { position: absolute; top: 48px; left: 8px; width: 304px; height: 16px; background-color: #ffb366;}
+
+#Image739 { position: absolute; top: 3px; left: 16px; width: 40px; height: 34px; }
+
+#video_k2_u8 { position: absolute; top: 160px; left: 376px; width: 304px; height: 168px; }
+
+#close_k2_u8_video { position: absolute; top: 96px; left: 504px; width: 24px; height: 24px; }
+
+#Image741 { position: absolute; top: 64px; left: 8px; width: 304px; height: 184px; }
+
+#Image742 { position: absolute; top: 256px; left: 8px; width: 304px; height: 184px; }
+
+#Image743 { position: absolute; top: 448px; left: 8px; width: 304px; height: 184px; }
+
+#Image744 { position: absolute; top: 640px; left: 8px; width: 304px; height: 184px; }
+
+#Image745 { position: absolute; top: 832px; left: 8px; width: 304px; height: 184px; }
+
+#Image746 { position: absolute; top: 1024px; left: 8px; width: 304px; height: 184px; }
+
+#Image747 { position: absolute; top: 1216px; left: 8px; width: 304px; height: 184px; }
+
+#Image748 { position: absolute; top: 1408px; left: 8px; width: 304px; height: 184px; }
+
+#Image749 { position: absolute; top: 1600px; left: 8px; width: 304px; height: 184px; }
+
+#Image750 { position: absolute; top: 1792px; left: 8px; width: 304px; height: 184px; }
+
+#Image751 { position: absolute; top: 1984px; left: 8px; width: 304px; height: 184px; }
+
+#Image752 { position: absolute; top: 2176px; left: 8px; width: 304px; height: 184px; }
+
+#Image753 { position: absolute; top: 2368px; left: 8px; width: 304px; height: 184px; }
+
+#Image754 { position: absolute; top: 2560px; left: 8px; width: 304px; height: 184px; }

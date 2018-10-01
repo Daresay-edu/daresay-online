@@ -1,0 +1,19 @@
+﻿<div id="S2_u2_cc" block-ui="main" class="appView animated"><div id="Container119" ng-class="Container119.Class" ng-hide="Container119.Hidden" title="{{Container119.Title}}" uib-tooltip="{{Container119.TooltipText}}" tooltip-placement="{{Container119.TooltipPos}}" popover-trigger="{{Container119.PopoverEvent}}" popover-placement="{{Container119.PopoverPos}}" popover-title="{{Container119.PopoverTitle}}" uib-popover="{{Container119.PopoverText}}" ng-hide="Container119.Hidden"></div><img ng-src="{{Image627.Image}}" id="Image627" ng-class="Image627.Class" ng-hide="Image627.Hidden" title="{{Image627.Title}}" tooltip-placement="{{Image627.TooltipPos}}" uib-tooltip="{{Image627.TooltipText}}" popover-trigger="{{Image627.PopoverEvent}}" popover-placement="{{Image627.PopoverPos}}" popover-title="{{Image627.PopoverTitle}}" uib-popover="{{Image627.PopoverText}}" ng-click="Image627Click($event)" ng-dblclick="Image627Dblclick($event)" /><div id="r_S2u2" ng-class="r_S2u2.Class" ng-hide="r_S2u2.Hidden"><table class="table"> <td class="bg-success">
+  课时
+ </td>
+
+ <td class="bg-success">
+  课程简介
+ </td>
+
+<tbody><tr class="r_S2u2Row" id="r_S2u2Row{{$index}}" ng-click="r_S2u2RowClick($event, $index, Record)" ng-repeat="Record in r_S2u2.Data | filter:r_S2u2.Query | orderBy:r_S2u2.Order"><td>
+ <span ng-bind-html="Record.Hour"></span>
+</td>
+
+<td>
+ <span ng-bind-html="Record.Title"></span>
+</td>
+<tr ng-if="r_S2u2.Data.length == 0"><td>{{$root.r_S2u2.Loading}}</td></tr></tbody>
+<td colspan="3" class="bg-info text-center">
+ 以上是本单元课程内容
+ </td></table></div><label id="Label204" for="{{$root.Label204.Input}}" ng-class="Label204.Class" ng-hide="Label204.Hidden" title="{{Label204.Title}}" uib-tooltip="{{Label204.TooltipText}}" tooltip-placement="{{Label204.TooltipPos}}" popover-trigger="{{Label204.PopoverEvent}}" popover-placement="{{Label204.PopoverPos}}" popover-title="{{Label204.PopoverTitle}}" uib-popover="{{Label204.PopoverText}}">{{$root.Label204.Text}}</label><img ng-src="{{Image628.Image}}" id="Image628" ng-class="Image628.Class" ng-hide="Image628.Hidden" title="{{Image628.Title}}" tooltip-placement="{{Image628.TooltipPos}}" uib-tooltip="{{Image628.TooltipText}}" popover-trigger="{{Image628.PopoverEvent}}" popover-placement="{{Image628.PopoverPos}}" popover-title="{{Image628.PopoverTitle}}" uib-popover="{{Image628.PopoverText}}" /><img ng-src="{{Image629.Image}}" id="Image629" ng-class="Image629.Class" ng-hide="Image629.Hidden" title="{{Image629.Title}}" tooltip-placement="{{Image629.TooltipPos}}" uib-tooltip="{{Image629.TooltipText}}" popover-trigger="{{Image629.PopoverEvent}}" popover-placement="{{Image629.PopoverPos}}" popover-title="{{Image629.PopoverTitle}}" uib-popover="{{Image629.PopoverText}}" ng-click="Image629Click($event)" /><img ng-src="{{Image630.Image}}" id="Image630" ng-class="Image630.Class" ng-hide="Image630.Hidden" title="{{Image630.Title}}" tooltip-placement="{{Image630.TooltipPos}}" uib-tooltip="{{Image630.TooltipText}}" popover-trigger="{{Image630.PopoverEvent}}" popover-placement="{{Image630.PopoverPos}}" popover-title="{{Image630.PopoverTitle}}" uib-popover="{{Image630.PopoverText}}" ng-click="Image630Click($event)" ng-dblclick="Image630Dblclick($event)" /></div>

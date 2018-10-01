@@ -1,0 +1,3707 @@
+﻿/*!
+ * This file is part of App Builder
+ *
+ * ©2016 App Builder - https://www.davidesperalta.com
+ */
+
+/* App auto generated CSS */
+
+html, body { width: 320px; height: 480px; } .appView { width: 100vw; height: 100vh; }
+
+#Progressbar1 { position: absolute; top: 0%; left: 0%; width: 100%; height: 5%; }
+
+#Label1 { position: absolute; top: 0%; left: 0%; width: 100%; height: 5%; color: #ffffff; font-size: 20px; text-align: center; background-color: #3a3a3a;}
+
+#passwd { position: absolute; top: 33.3333333333333%; left: 20%; width: 60%; height: 8.33333333333333%; }
+
+#Login { position: absolute; top: 41.6666666666667%; left: 20%; width: 60%; height: 8.33333333333333%; color: #66e3a5;}
+
+#engname { position: absolute; top: 23.3333333333333%; left: 20%; width: 60%; height: 8.33333333333333%; }
+
+#classid { position: absolute; top: 13.3333333333333%; left: 20%; width: 60%; height: 8.33333333333333%; }
+
+#HtmlContent1 { position: absolute; top: 73.3333333333333%; left: 0%; width: 100%; height: 13.3333333333333%; }
+
+#refresh { position: absolute; top: 0%; left: 92.5%; width: 6.25%; height: 5%; }
+
+#HtmlContent8 { position: absolute; top: 91.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Container1 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image1 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image3 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image9 { position: absolute; top: 0%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label19 { position: absolute; top: 15%; left: 2.5%; width: 95%; height: 15%; }
+
+#Image404 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#HtmlContent6 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 50%; }
+
+#Container3 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image405 { position: absolute; top: 20%; left: 75%; width: 6.25%; height: 60%; }
+
+#Image4 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image5 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image15 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image28 { position: absolute; top: 68.3333333333333%; left: 42.5%; width: 14.375%; height: 9.16666666666667%; }
+
+#Label2 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; text-align: center; background-color: #ffb366;}
+
+#Label17 { position: absolute; top: 78.3333333333333%; left: 20%; width: 60%; height: 3.33333333333333%; text-align: center;}
+
+#HtmlContent32 { position: absolute; top: 86.6666666666667%; left: 12.5%; width: 70%; height: 3.75%; }
+
+#K1_u1_cc { background-color: #ffffff; }
+
+#Container4 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image7 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image10 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#r_K1u1 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 76.6666666666667%; }
+
+#Label4 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#ccK1u1h1_2 { position: absolute; top: 8.33333333333333%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK1u1h3_4 { position: absolute; top: 20%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#Image13 { position: absolute; top: 0%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#ccK1u1h5_6 { position: absolute; top: 30%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK1u1h7_8 { position: absolute; top: 40%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK1u1h9_10 { position: absolute; top: 50%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK1u1h11_12 { position: absolute; top: 60%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#ccK1u1h13_14 { position: absolute; top: 70%; left: 115%; width: 45%; height: 7.70833333333333%; }
+
+#ccK1u1h17_18 { position: absolute; top: 8.33333333333333%; left: 157.5%; width: 45%; height: 7.70833333333333%; }
+
+#Image19 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container100 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image20 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image21 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label173 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image505 { position: absolute; top: 0%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image506 { position: absolute; top: 46.6666666666667%; left: 5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image507 { position: absolute; top: 45%; left: 32.5%; width: 32.5%; height: 20%; }
+
+#Image508 { position: absolute; top: 45%; left: 70%; width: 25%; height: 16.6666666666667%; }
+
+#HtmlContent7 { position: absolute; top: 66.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image509 { position: absolute; top: 23.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Image510 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container99 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image497 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image498 { position: absolute; top: 0%; left: 5%; width: 12.5%; height: 6.66666666666667%; }
+
+#Image499 { position: absolute; top: 48.3333333333333%; left: 7.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image500 { position: absolute; top: 46.6666666666667%; left: 32.5%; width: 32.5%; height: 20%; }
+
+#HtmlContent136 { position: absolute; top: 71.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image501 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image502 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Image503 { position: absolute; top: 23.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Label174 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image504 { position: absolute; top: 46.6666666666667%; left: 70%; width: 25%; height: 16.6666666666667%; }
+
+#MediaPlayer3 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer4 { position: absolute; top: 23.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer5 { position: absolute; top: 33.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer6 { position: absolute; top: 43.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer7 { position: absolute; top: 53.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Container8 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image22 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image23 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label15 { position: absolute; top: 9.58333333333333%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image24 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer8 { position: absolute; top: 63.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer9 { position: absolute; top: 73.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer10 { position: absolute; top: 83.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer11 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer13 { position: absolute; top: 103.333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer14 { position: absolute; top: 113.333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer15 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer16 { position: absolute; top: 133.333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer17 { position: absolute; top: 143.333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer18 { position: absolute; top: 153.333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer19 { position: absolute; top: 163.333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer20 { position: absolute; top: 173.333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Image219 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container9 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image25 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image26 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label16 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image27 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image220 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#iframe_k1_u1_video { position: absolute; top: 28.3333333333333%; left: 112.5%; width: 95%; height: 41.6666666666667%; }
+
+#close_k1_u1_video { position: absolute; top: 16.6666666666667%; left: 155%; width: 7.5%; height: 5%; }
+
+#Image636 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image635 { position: absolute; top: 40%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image637 { position: absolute; top: 66.6666666666667%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image638 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image639 { position: absolute; top: 120%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image640 { position: absolute; top: 146.666666666667%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image641 { position: absolute; top: 173.333333333333%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image642 { position: absolute; top: 200%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image643 { position: absolute; top: 226.666666666667%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image644 { position: absolute; top: 253.333333333333%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image645 { position: absolute; top: 280%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image646 { position: absolute; top: 306.666666666667%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image647 { position: absolute; top: 333.333333333333%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image648 { position: absolute; top: 360%; left: 2.5%; width: 95%; height: 25%; }
+
+#Container13 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image37 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image41 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#r_K1u2 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 46.6666666666667%; }
+
+#Label3 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#ccK1u1h19_20 { position: absolute; top: 8.33333333333333%; left: 115%; width: 50%; height: 7.70833333333333%; }
+
+#ccK1u1h21_22 { position: absolute; top: 18.3333333333333%; left: 115%; width: 50%; height: 7.70833333333333%; }
+
+#Image42 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#ccK1u1h23_24 { position: absolute; top: 28.3333333333333%; left: 115%; width: 50%; height: 7.70833333333333%; }
+
+#ccK1u1h25_26 { position: absolute; top: 38.3333333333333%; left: 115%; width: 50%; height: 7.70833333333333%; }
+
+#ccK1u1h27_28 { position: absolute; top: 48.3333333333333%; left: 115%; width: 50%; height: 7.70833333333333%; }
+
+#ccK1u1h29_30 { position: absolute; top: 58.3333333333333%; left: 115%; width: 50%; height: 7.70833333333333%; }
+
+#Image210 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container24 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image74 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image105 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#r_K1u4 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 61.6666666666667%; }
+
+#Label34 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#ccK14748 { position: absolute; top: 8.33333333333333%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK14950 { position: absolute; top: 20%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#Image115 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#ccK15152 { position: absolute; top: 30%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK15354 { position: absolute; top: 40%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK15556 { position: absolute; top: 50%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK15758 { position: absolute; top: 60%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK15960 { position: absolute; top: 70%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK16162 { position: absolute; top: 8.33333333333333%; left: 160%; width: 40%; height: 7.70833333333333%; }
+
+#Image511 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container10 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image32 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image33 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image34 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Progressbar2 { position: absolute; top: 41.6666666666667%; left: 5%; width: 90%; height: 6.66666666666667%; }
+
+#Label24 { position: absolute; top: 36.6666666666667%; left: 5%; width: 90%; height: 5%; text-align: center;}
+
+#Image512 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#gohome { position: absolute; top: 8.75%; left: 42.5%; width: 17.5%; height: 8.33333333333333%; }
+
+#k1u1 { position: absolute; top: 18.3333333333333%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #ffad5b; padding-left: 20px;}
+
+#Label5 { position: absolute; top: 25%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #00ec76; padding-left: 20px;}
+
+#Label6 { position: absolute; top: 31.6666666666667%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #bb77ff; padding-left: 20px;}
+
+#Label7 { position: absolute; top: 38.3333333333333%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #26b9ff; padding-left: 20px;}
+
+#Label8 { position: absolute; top: 45%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #f0f000; padding-left: 20px;}
+
+#Label9 { position: absolute; top: 51.6666666666667%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #ff8080; padding-left: 20px;}
+
+#Label10 { position: absolute; top: 58.3333333333333%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #b5b500; padding-left: 20px;}
+
+#Label11 { position: absolute; top: 65%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #a3a3d1; padding-left: 20px;}
+
+#Label12 { position: absolute; top: 71.6666666666667%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #00d200; padding-left: 20px;}
+
+#Label13 { position: absolute; top: 78.3333333333333%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #e80074; padding-left: 20px;}
+
+#Label14 { position: absolute; top: 85%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #ffff00; padding-left: 20px;}
+
+#Container5 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image11 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image12 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image14 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label25 { position: absolute; top: 91.6666666666667%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #02adff; padding-left: 20px;}
+
+#Image517 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container2 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image2 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image6 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image8 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image327 { position: absolute; top: 8.75%; left: 42.5%; width: 17.5%; height: 8.33333333333333%; }
+
+#Label68 { position: absolute; top: 18.3333333333333%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #ffad5b; padding-left: 20px;}
+
+#Label69 { position: absolute; top: 25%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #00ec76; padding-left: 20px;}
+
+#Label70 { position: absolute; top: 31.6666666666667%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #bb77ff; padding-left: 20px;}
+
+#Label71 { position: absolute; top: 38.3333333333333%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #26b9ff; padding-left: 20px;}
+
+#Label72 { position: absolute; top: 45%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #f0f000; padding-left: 20px;}
+
+#Label73 { position: absolute; top: 51.6666666666667%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #ff8080; padding-left: 20px;}
+
+#Label74 { position: absolute; top: 58.3333333333333%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #b5b500; padding-left: 20px;}
+
+#Label75 { position: absolute; top: 65%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #a3a3d1; padding-left: 20px;}
+
+#Container60 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image403 { position: absolute; top: 20%; left: 75%; width: 7.5%; height: 60%; }
+
+#Image328 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image329 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image330 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Container6 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image16 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image17 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image18 { position: absolute; top: 0.833333333333333%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#shapesgif { position: absolute; top: 26.6666666666667%; left: 0%; width: 100%; height: 36.6666666666667%; }
+
+#Container7 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image29 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image30 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image31 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label18 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image35 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent5 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image36 { position: absolute; top: 36.6666666666667%; left: 7.5%; width: 28.75%; height: 20.625%; }
+
+#Image46 { position: absolute; top: 36.6666666666667%; left: 62.5%; width: 26.25%; height: 18.9583333333333%; }
+
+#yes1 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#no1 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Image49 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#lettera { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#letterd { position: absolute; top: 38.3333333333333%; left: 120%; width: 47.5%; height: 10%; }
+
+#Container12 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image38 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image39 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image40 { position: absolute; top: 0%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label20 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image48 { position: absolute; top: 36.6666666666667%; left: 7.5%; width: 28.75%; height: 20.625%; }
+
+#Image50 { position: absolute; top: 36.6666666666667%; left: 62.5%; width: 26.25%; height: 18.9583333333333%; }
+
+#Image58 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image53 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent9 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#yes2 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#no2 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#lettere { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#letterh { position: absolute; top: 38.3333333333333%; left: 120%; width: 47.5%; height: 10%; }
+
+#lettergif { position: absolute; top: 25%; left: 0%; width: 100%; height: 45%; }
+
+#HtmlContent2 { position: absolute; top: 25%; left: 0%; width: 100%; height: 45%; }
+
+#Container11 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image54 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image55 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image56 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label21 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image57 { position: absolute; top: 36.6666666666667%; left: 7.5%; width: 28.75%; height: 20.625%; }
+
+#Image59 { position: absolute; top: 36.6666666666667%; left: 62.5%; width: 26.25%; height: 18.9583333333333%; }
+
+#Image62 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image150 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent33 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#yes3 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#no3 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#letterg { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#letterj { position: absolute; top: 40%; left: 120%; width: 47.5%; height: 10%; }
+
+#engname1 { position: absolute; top: 23.3333333333333%; left: 17.5%; width: 62.5%; height: 8.33333333333333%; }
+
+#Button2 { position: absolute; top: 53.3333333333333%; left: 17.5%; width: 62.5%; height: 8.33333333333333%; }
+
+#passwd1 { position: absolute; top: 36.6666666666667%; left: 17.5%; width: 62.5%; height: 8.33333333333333%; }
+
+#gentitle { position: absolute; top: 8.33333333333333%; left: 0%; width: 100%; height: 8.33333333333333%; text-align: center;}
+
+#Container14 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image47 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image60 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image61 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label22 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image65 { position: absolute; top: 38.3333333333333%; left: 12.5%; width: 21.25%; height: 15.625%; }
+
+#Image66 { position: absolute; top: 36.6666666666667%; left: 62.5%; width: 26.25%; height: 18.9583333333333%; }
+
+#Image69 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image63 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent23 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#yes4 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#no4 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#letterm { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#lettern { position: absolute; top: 38.3333333333333%; left: 120%; width: 47.5%; height: 10%; }
+
+#Container15 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image70 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image71 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image72 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label23 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image75 { position: absolute; top: 36.6666666666667%; left: 62.5%; width: 26.25%; height: 18.3333333333333%; }
+
+#Image76 { position: absolute; top: 36.6666666666667%; left: 7.5%; width: 26.25%; height: 18.9583333333333%; }
+
+#Image79 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image73 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent24 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#yes5 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#no5 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#letterk { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#lettert { position: absolute; top: 38.3333333333333%; left: 120%; width: 47.5%; height: 10%; }
+
+#Container16 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image67 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image68 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image77 { position: absolute; top: 0.833333333333333%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label26 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image81 { position: absolute; top: 36.6666666666667%; left: 65%; width: 26.25%; height: 18.3333333333333%; }
+
+#Image82 { position: absolute; top: 36.6666666666667%; left: 7.5%; width: 26.25%; height: 18.9583333333333%; }
+
+#Image85 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image78 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent25 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#yes6 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#no6 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#letterl { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#letterq { position: absolute; top: 36.6666666666667%; left: 120%; width: 47.5%; height: 10%; }
+
+#Container17 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image83 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image84 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image86 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label27 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image89 { position: absolute; top: 36.6666666666667%; left: 65%; width: 26.25%; height: 18.3333333333333%; }
+
+#Image90 { position: absolute; top: 36.6666666666667%; left: 7.5%; width: 26.25%; height: 18.9583333333333%; }
+
+#Image93 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#letterr { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#letters { position: absolute; top: 38.3333333333333%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image87 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent13 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image758 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image759 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container18 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image91 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image92 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image94 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label28 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image97 { position: absolute; top: 38.3333333333333%; left: 12.5%; width: 26.25%; height: 18.3333333333333%; }
+
+#Image98 { position: absolute; top: 38.3333333333333%; left: 62.5%; width: 26.25%; height: 18.9583333333333%; }
+
+#Image101 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#letteru { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#letterv { position: absolute; top: 36.6666666666667%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image95 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent14 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image760 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image761 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container19 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image99 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image100 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image102 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label29 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image106 { position: absolute; top: 36.6666666666667%; left: 35%; width: 26.25%; height: 18.3333333333333%; }
+
+#Image107 { position: absolute; top: 36.6666666666667%; left: 5%; width: 26.25%; height: 18.9583333333333%; }
+
+#Image110 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image111 { position: absolute; top: 36.6666666666667%; left: 67.5%; width: 26.25%; height: 18.3333333333333%; }
+
+#letterx { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#lettery { position: absolute; top: 36.6666666666667%; left: 120%; width: 47.5%; height: 10%; }
+
+#letterz { position: absolute; top: 50%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image103 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent15 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image762 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image763 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container20 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image109 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image112 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image113 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label30 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image117 { position: absolute; top: 36.6666666666667%; left: 17.5%; width: 26.25%; height: 18.9583333333333%; }
+
+#Image120 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image121 { position: absolute; top: 36.6666666666667%; left: 57.5%; width: 26.25%; height: 18.3333333333333%; }
+
+#ball { position: absolute; top: 18.3333333333333%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#teddybear { position: absolute; top: 31.6666666666667%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#Image114 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent16 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image764 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image765 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container21 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image108 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image116 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image118 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label31 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image123 { position: absolute; top: 36.6666666666667%; left: 5%; width: 47.5%; height: 28.3333333333333%; }
+
+#Image126 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image127 { position: absolute; top: 36.6666666666667%; left: 65%; width: 26.25%; height: 36.6666666666667%; }
+
+#bicycle { position: absolute; top: 16.6666666666667%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#yoyo { position: absolute; top: 31.6666666666667%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#Image119 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent17 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image766 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image767 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container22 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image124 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image125 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image128 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label32 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image131 { position: absolute; top: 53.3333333333333%; left: 25%; width: 47.5%; height: 28.3333333333333%; }
+
+#Image134 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image135 { position: absolute; top: 35%; left: 62.5%; width: 26.25%; height: 23.3333333333333%; }
+
+#Image136 { position: absolute; top: 36.6666666666667%; left: 10%; width: 26.25%; height: 18.3333333333333%; }
+
+#train { position: absolute; top: 26.6666666666667%; left: 125%; width: 47.5%; height: 10%; }
+
+#car { position: absolute; top: 40%; left: 125%; width: 47.5%; height: 10%; }
+
+#doll { position: absolute; top: 55%; left: 125%; width: 47.5%; height: 10%; }
+
+#Image129 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent18 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image768 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image769 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container23 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image51 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image52 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image64 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label33 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image80 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image88 { position: absolute; top: 45%; left: 52.5%; width: 31.25%; height: 28.3333333333333%; }
+
+#Image96 { position: absolute; top: 45%; left: 10%; width: 37.5%; height: 28.3333333333333%; }
+
+#jump_rope { position: absolute; top: 26.6666666666667%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#toy_gun { position: absolute; top: 41.6666666666667%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#Image104 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent11 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image770 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image771 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container34 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image183 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image184 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image186 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label44 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image187 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image188 { position: absolute; top: 45%; left: 52.5%; width: 35%; height: 28.3333333333333%; }
+
+#b { position: absolute; top: 45%; left: 10%; width: 37.5%; height: 28.3333333333333%; }
+
+#building_blocks { position: absolute; top: 26.6666666666667%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#toy_digger { position: absolute; top: 38.3333333333333%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#Image190 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent19 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image772 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image773 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#MediaPlayer12 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Container25 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image133 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image137 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label35 { position: absolute; top: 9.58333333333333%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image138 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image518 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container26 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image139 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image140 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label36 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image141 { position: absolute; top: 0.833333333333333%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#HtmlContent37 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent38 { position: absolute; top: 50%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent35 { position: absolute; top: 86.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent36 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent85 { position: absolute; top: 160%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent86 { position: absolute; top: 196.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent87 { position: absolute; top: 233.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent89 { position: absolute; top: 270%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent90 { position: absolute; top: 306.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent91 { position: absolute; top: 343.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer1 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer2 { position: absolute; top: 23.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer38 { position: absolute; top: 33.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer39 { position: absolute; top: 43.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer40 { position: absolute; top: 53.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Container27 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image142 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image143 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label37 { position: absolute; top: 9.58333333333333%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image144 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer41 { position: absolute; top: 63.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer42 { position: absolute; top: 73.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer43 { position: absolute; top: 83.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer44 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer45 { position: absolute; top: 103.333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer46 { position: absolute; top: 113.333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer47 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer48 { position: absolute; top: 133.333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer49 { position: absolute; top: 143.333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer50 { position: absolute; top: 153.333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Image519 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container28 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image145 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image146 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label38 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image147 { position: absolute; top: 0.416666666666667%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image520 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#iframe_k1_u2_video { position: absolute; top: 28.3333333333333%; left: 112.5%; width: 95%; height: 41.6666666666667%; }
+
+#close_k1_u2_video { position: absolute; top: 16.6666666666667%; left: 155%; width: 7.5%; height: 5%; }
+
+#Image650 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image653 { position: absolute; top: 40%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image654 { position: absolute; top: 66.6666666666667%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image655 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image649 { position: absolute; top: 120%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image651 { position: absolute; top: 146.666666666667%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image652 { position: absolute; top: 173.333333333333%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image656 { position: absolute; top: 200%; left: 2.5%; width: 95%; height: 25%; }
+
+#Container29 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image148 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image149 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image151 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label39 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image153 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image154 { position: absolute; top: 36.6666666666667%; left: 52.5%; width: 40%; height: 25%; }
+
+#Image155 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent47 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#yesk1u21 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#nok1u21 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#red { position: absolute; top: 18.3333333333333%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#blue { position: absolute; top: 31.6666666666667%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#Image152 { position: absolute; top: 36.6666666666667%; left: 7.5%; width: 37.5%; height: 25%; }
+
+#Container30 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image156 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image157 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image158 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label40 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image159 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image160 { position: absolute; top: 36.6666666666667%; left: 55%; width: 40%; height: 25%; }
+
+#orange { position: absolute; top: 18.3333333333333%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#yellow { position: absolute; top: 31.6666666666667%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#Image164 { position: absolute; top: 36.6666666666667%; left: 7.5%; width: 40%; height: 26.6666666666667%; }
+
+#Image161 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent20 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image774 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image775 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container31 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image162 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image163 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image165 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label41 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image166 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image167 { position: absolute; top: 36.6666666666667%; left: 5%; width: 35%; height: 21.6666666666667%; }
+
+#green { position: absolute; top: 18.3333333333333%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#purple { position: absolute; top: 31.6666666666667%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#Image171 { position: absolute; top: 36.6666666666667%; left: 57.5%; width: 35%; height: 21.6666666666667%; }
+
+#Image168 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent21 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image776 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image777 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container32 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image169 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image170 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image172 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label42 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image173 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image174 { position: absolute; top: 36.6666666666667%; left: 7.5%; width: 40%; height: 23.3333333333333%; }
+
+#black { position: absolute; top: 18.3333333333333%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#white { position: absolute; top: 31.6666666666667%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#Image178 { position: absolute; top: 36.6666666666667%; left: 55%; width: 37.5%; height: 23.3333333333333%; }
+
+#Image175 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent22 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image778 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image779 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container33 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image176 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image177 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image179 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label43 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image180 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image181 { position: absolute; top: 36.6666666666667%; left: 7.5%; width: 35%; height: 21.6666666666667%; }
+
+#white1 { position: absolute; top: 18.3333333333333%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#gray { position: absolute; top: 31.6666666666667%; left: 122.5%; width: 47.5%; height: 10%; }
+
+#Image185 { position: absolute; top: 36.6666666666667%; left: 52.5%; width: 40%; height: 21.6666666666667%; }
+
+#Image182 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent26 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image780 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image781 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container35 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image189 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image191 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#r_K1u9 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 68.3333333333333%; }
+
+#Label45 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#ccK1h129_130 { position: absolute; top: 8.33333333333333%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#ccK1h131_132 { position: absolute; top: 20%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#Image192 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#ccK1h133_134 { position: absolute; top: 30%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK1h135_136 { position: absolute; top: 40%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK1h137_138 { position: absolute; top: 50%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK1h139_140 { position: absolute; top: 60%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#ccK1h141_142 { position: absolute; top: 70%; left: 115%; width: 45%; height: 7.70833333333333%; }
+
+#ccK1h143_144 { position: absolute; top: 8.33333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#ccK1h145_146 { position: absolute; top: 20%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer51 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Container36 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image196 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image197 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label46 { position: absolute; top: 9.58333333333333%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image198 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image521 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#HtmlContent54 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent55 { position: absolute; top: 160%; left: 2.5%; width: 95%; height: 35%; }
+
+#Container37 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image199 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image200 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label47 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image201 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#HtmlContent56 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent57 { position: absolute; top: 50%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent58 { position: absolute; top: 86.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent59 { position: absolute; top: 196.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent60 { position: absolute; top: 233.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent61 { position: absolute; top: 270%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent62 { position: absolute; top: 306.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent63 { position: absolute; top: 343.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent64 { position: absolute; top: 416.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent65 { position: absolute; top: 453.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent66 { position: absolute; top: 490%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent67 { position: absolute; top: 380%; left: 2.5%; width: 95%; height: 35%; }
+
+#Image522 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container40 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image214 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image215 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image216 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image218 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent71 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#HtmlContent72 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 80%; }
+
+#Container39 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image211 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image212 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image213 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image217 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent69 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#HtmlContent70 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 80%; }
+
+#Container38 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image195 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image202 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#r_K1u5 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 65%; }
+
+#Label48 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#ccK1u5h63_64 { position: absolute; top: 8.33333333333333%; left: 115%; width: 52.5%; height: 7.70833333333333%; }
+
+#ccK1u5h65_66 { position: absolute; top: 20%; left: 115%; width: 55%; height: 7.70833333333333%; }
+
+#Image203 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#ccK1u5h67_68 { position: absolute; top: 30%; left: 115%; width: 50%; height: 7.70833333333333%; }
+
+#ccK1u5h69_70 { position: absolute; top: 40%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#ccK1u5h71_72 { position: absolute; top: 50%; left: 115%; width: 55%; height: 7.70833333333333%; }
+
+#ccK1u5h73_74 { position: absolute; top: 60%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#ccK1u5h75_76 { position: absolute; top: 70%; left: 115%; width: 45%; height: 7.70833333333333%; }
+
+#ccK1u5h77_78 { position: absolute; top: 6.66666666666667%; left: 180%; width: 45%; height: 7.70833333333333%; }
+
+#ccK1u5h79_80 { position: absolute; top: 18.3333333333333%; left: 180%; width: 45%; height: 7.70833333333333%; }
+
+#Container41 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image207 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image208 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#r_K1u3 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 60%; }
+
+#Label49 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#ccK1u3h31_32 { position: absolute; top: 8.33333333333333%; left: 115%; width: 50%; height: 7.70833333333333%; }
+
+#ccK1u3h33_34 { position: absolute; top: 20%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#Image209 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#ccK1u3h35_36 { position: absolute; top: 30%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK1u3h37_38 { position: absolute; top: 40%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK1u3h39_40 { position: absolute; top: 50%; left: 115%; width: 52.5%; height: 7.70833333333333%; }
+
+#ccK1u3h41_42 { position: absolute; top: 60%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#ccK1u3h43_44 { position: absolute; top: 70%; left: 115%; width: 45%; height: 7.70833333333333%; }
+
+#ccK1u3h45_46 { position: absolute; top: 8.33333333333333%; left: 172.5%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer60 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Container42 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image221 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image222 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label50 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image223 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image523 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container43 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image224 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image225 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label51 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image226 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image524 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#k1_u3_video { position: absolute; top: 28.3333333333333%; left: 112.5%; width: 95%; height: 41.6666666666667%; }
+
+#close_k1_u3_video { position: absolute; top: 16.6666666666667%; left: 155%; width: 7.5%; height: 5%; }
+
+#Image694 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image695 { position: absolute; top: 40%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image696 { position: absolute; top: 66.6666666666667%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image697 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image698 { position: absolute; top: 120%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image699 { position: absolute; top: 146.666666666667%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image700 { position: absolute; top: 173.333333333333%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image701 { position: absolute; top: 200%; left: 2.5%; width: 95%; height: 25%; }
+
+#Container44 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image227 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image228 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image229 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label52 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image230 { position: absolute; top: 38.3333333333333%; left: 57.5%; width: 26.25%; height: 18.3333333333333%; }
+
+#Image231 { position: absolute; top: 38.3333333333333%; left: 12.5%; width: 26.25%; height: 18.9583333333333%; }
+
+#Image232 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#Image233 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent81 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#yesk1u31 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#nok1u31 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#circle { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#square { position: absolute; top: 36.6666666666667%; left: 120%; width: 47.5%; height: 10%; }
+
+#Container45 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image234 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image235 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image236 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label53 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image237 { position: absolute; top: 38.3333333333333%; left: 57.5%; width: 26.25%; height: 18.3333333333333%; }
+
+#Image238 { position: absolute; top: 38.3333333333333%; left: 12.5%; width: 26.25%; height: 18.9583333333333%; }
+
+#Image239 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#heart { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#star { position: absolute; top: 36.6666666666667%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image240 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent27 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image782 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image783 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container46 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image241 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image242 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image243 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label54 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image244 { position: absolute; top: 40%; left: 10%; width: 26.25%; height: 26.6666666666667%; }
+
+#Image245 { position: absolute; top: 41.6666666666667%; left: 52.5%; width: 33.75%; height: 23.3333333333333%; }
+
+#Image246 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#diamond { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#oval { position: absolute; top: 36.6666666666667%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image247 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent28 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image784 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image785 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container47 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image248 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image249 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image250 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label55 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image251 { position: absolute; top: 40%; left: 10%; width: 26.25%; height: 21.6666666666667%; }
+
+#Image252 { position: absolute; top: 40%; left: 57.5%; width: 33.75%; height: 21.6666666666667%; }
+
+#Image253 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#trapezoid { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#triangle { position: absolute; top: 36.6666666666667%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image254 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent29 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image786 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image787 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container48 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image255 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image256 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image257 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label56 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image258 { position: absolute; top: 38.3333333333333%; left: 55%; width: 25%; height: 16.6666666666667%; }
+
+#Image259 { position: absolute; top: 36.6666666666667%; left: 10%; width: 30%; height: 20%; }
+
+#Image260 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#number1 { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#number2 { position: absolute; top: 36.6666666666667%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image264 { position: absolute; top: 60%; left: 30%; width: 25%; height: 16.6666666666667%; }
+
+#number3 { position: absolute; top: 48.3333333333333%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image261 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent30 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image788 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image789 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container49 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image262 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image263 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image265 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label57 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image266 { position: absolute; top: 38.3333333333333%; left: 10%; width: 25%; height: 16.6666666666667%; }
+
+#Image267 { position: absolute; top: 60%; left: 30%; width: 30%; height: 20%; }
+
+#Image268 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#number4 { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#number5 { position: absolute; top: 36.6666666666667%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image272 { position: absolute; top: 38.3333333333333%; left: 57.5%; width: 25%; height: 16.6666666666667%; }
+
+#number6 { position: absolute; top: 48.3333333333333%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image269 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent31 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image790 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image791 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container50 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image270 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image271 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image273 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label58 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image274 { position: absolute; top: 35%; left: 7.5%; width: 27.5%; height: 20%; }
+
+#Image275 { position: absolute; top: 33.3333333333333%; left: 52.5%; width: 30%; height: 20%; }
+
+#Image276 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#number7 { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#number8 { position: absolute; top: 36.6666666666667%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image280 { position: absolute; top: 60%; left: 30%; width: 30%; height: 20%; }
+
+#number9 { position: absolute; top: 48.3333333333333%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image277 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent39 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image792 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image793 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container51 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image278 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image279 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image281 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label59 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image282 { position: absolute; top: 35%; left: 7.5%; width: 27.5%; height: 20%; }
+
+#Image283 { position: absolute; top: 35%; left: 52.5%; width: 30%; height: 20%; }
+
+#Image284 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#number10 { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#number11 { position: absolute; top: 36.6666666666667%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image288 { position: absolute; top: 60%; left: 30%; width: 30%; height: 20%; }
+
+#number12 { position: absolute; top: 48.3333333333333%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image285 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent40 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image794 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image795 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container52 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image286 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image287 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image289 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label60 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image290 { position: absolute; top: 35%; left: 7.5%; width: 27.5%; height: 20%; }
+
+#Image291 { position: absolute; top: 35%; left: 52.5%; width: 30%; height: 20%; }
+
+#Image292 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#number13 { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#number14 { position: absolute; top: 36.6666666666667%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image296 { position: absolute; top: 60%; left: 30%; width: 30%; height: 20%; }
+
+#number15 { position: absolute; top: 48.3333333333333%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image293 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent41 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image796 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image797 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container53 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image294 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image295 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image297 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label61 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image298 { position: absolute; top: 35%; left: 7.5%; width: 27.5%; height: 20%; }
+
+#Image299 { position: absolute; top: 31.6666666666667%; left: 52.5%; width: 32.5%; height: 23.3333333333333%; }
+
+#Image300 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#number16 { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#number17 { position: absolute; top: 36.6666666666667%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image304 { position: absolute; top: 60%; left: 30%; width: 30%; height: 20%; }
+
+#number18 { position: absolute; top: 48.3333333333333%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image301 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent42 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image798 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image799 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#Container54 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image302 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image303 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image305 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label62 { position: absolute; top: 25%; left: 15%; width: 52.5%; height: 5%; font-size: 20px;}
+
+#Image306 { position: absolute; top: 35%; left: 7.5%; width: 27.5%; height: 20%; }
+
+#Image307 { position: absolute; top: 35%; left: 55%; width: 30%; height: 20%; }
+
+#Image308 { position: absolute; top: 23.3333333333333%; left: 7.5%; width: 7.5%; height: 5%; }
+
+#anumber8 { position: absolute; top: 25%; left: 120%; width: 47.5%; height: 10%; }
+
+#number19 { position: absolute; top: 36.6666666666667%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image312 { position: absolute; top: 60%; left: 30%; width: 30%; height: 20%; }
+
+#number20 { position: absolute; top: 48.3333333333333%; left: 120%; width: 47.5%; height: 10%; }
+
+#Image309 { position: absolute; top: 90%; left: 42.5%; width: 15%; height: 8.33333333333333%; }
+
+#HtmlContent43 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 40%; height: 5.83333333333333%; }
+
+#Image800 { position: absolute; top: 90%; left: 85%; width: 13.4375%; height: 8.125%; }
+
+#Image801 { position: absolute; top: 90%; left: 70%; width: 13.4375%; height: 8.125%; }
+
+#MediaPlayer21 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Container55 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image310 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image311 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label63 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image313 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image525 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container56 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image314 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image315 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label64 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image316 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#HtmlContent100 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent107 { position: absolute; top: 50%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent108 { position: absolute; top: 86.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent109 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent110 { position: absolute; top: 160%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent111 { position: absolute; top: 196.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent112 { position: absolute; top: 233.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent113 { position: absolute; top: 270%; left: 2.5%; width: 95%; height: 35%; }
+
+#Image526 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container57 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image206 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image317 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#r_K1u6 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 65%; }
+
+#Label65 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#ccK1u6h81_82 { position: absolute; top: 8.33333333333333%; left: 115%; width: 52.5%; height: 7.70833333333333%; }
+
+#ccK1u6h83_84 { position: absolute; top: 20%; left: 115%; width: 55%; height: 7.70833333333333%; }
+
+#Image318 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#HtmlContent99 { position: absolute; top: 121.666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#ccK1u6h85_86 { position: absolute; top: 30%; left: 115%; width: 50%; height: 7.70833333333333%; }
+
+#ccK1u6h87_88 { position: absolute; top: 40%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#ccK1u6h89_90 { position: absolute; top: 50%; left: 115%; width: 55%; height: 7.70833333333333%; }
+
+#ccK1u6h91_92 { position: absolute; top: 60%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#ccK1u6h93_94 { position: absolute; top: 70%; left: 115%; width: 45%; height: 7.70833333333333%; }
+
+#ccK1u6h95_96 { position: absolute; top: 6.66666666666667%; left: 180%; width: 45%; height: 7.70833333333333%; }
+
+#Image527 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#MediaPlayer22 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Container58 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image321 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image322 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label66 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image323 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image528 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container59 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image324 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image325 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label67 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image326 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image529 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#k1_u6_video { position: absolute; top: 28.3333333333333%; left: 112.5%; width: 95%; height: 41.6666666666667%; }
+
+#close_k1_u6_video { position: absolute; top: 16.6666666666667%; left: 155%; width: 7.5%; height: 5%; }
+
+#Image755 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image756 { position: absolute; top: 40%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image740 { position: absolute; top: 66.6666666666667%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image757 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image802 { position: absolute; top: 120%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image803 { position: absolute; top: 146.666666666667%; left: 2.5%; width: 95%; height: 25%; }
+
+#Image804 { position: absolute; top: 173.333333333333%; left: 2.5%; width: 95%; height: 25%; }
+
+#Container61 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image402 { position: absolute; top: 20%; left: 75%; width: 7.5%; height: 60%; }
+
+#Image331 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image332 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#r_K2u1 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 60%; }
+
+#Label76 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#ccK2u1h1_2 { position: absolute; top: 8.33333333333333%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK2u1h3_4 { position: absolute; top: 20%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#Image333 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#ccK2u1h5_6 { position: absolute; top: 30%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK2u1h7_8 { position: absolute; top: 40%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK2u1h9_10 { position: absolute; top: 50%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK2u1h11_12 { position: absolute; top: 60%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#ccK2u1h13_14 { position: absolute; top: 70%; left: 115%; width: 45%; height: 7.70833333333333%; }
+
+#ccK2u1h15_16 { position: absolute; top: 8.33333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#Container62 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image401 { position: absolute; top: 20%; left: 75%; width: 7.5%; height: 60%; }
+
+#Image337 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image338 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label77 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image339 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label78 { position: absolute; top: 15%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#Label79 { position: absolute; top: 56.6666666666667%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#Label81 { position: absolute; top: 98.3333333333333%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#MediaPlayer23 { position: absolute; top: 20%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer64 { position: absolute; top: 61.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label101 { position: absolute; top: 140%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#MediaPlayer65 { position: absolute; top: 103.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer66 { position: absolute; top: 145%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label109 { position: absolute; top: 181.666666666667%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#MediaPlayer67 { position: absolute; top: 186.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#Container63 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image400 { position: absolute; top: 20%; left: 75%; width: 7.5%; height: 60%; }
+
+#Image340 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image341 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label80 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image342 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer54 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer55 { position: absolute; top: 50%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer59 { position: absolute; top: 86.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#Container64 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image336 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image343 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#r_K1u7 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 60%; }
+
+#Label82 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#ccK1u7h97_98 { position: absolute; top: 8.33333333333333%; left: 115%; width: 52.5%; height: 7.70833333333333%; }
+
+#ccK1u7h99_100 { position: absolute; top: 20%; left: 115%; width: 55%; height: 7.70833333333333%; }
+
+#Image344 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#ccK1u7h101_102 { position: absolute; top: 30%; left: 115%; width: 50%; height: 7.70833333333333%; }
+
+#ccK1u7h103_104 { position: absolute; top: 40%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#ccK1u7h105_106 { position: absolute; top: 50%; left: 115%; width: 55%; height: 7.70833333333333%; }
+
+#ccK1u7h107_108 { position: absolute; top: 60%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#ccK1u7h109_110 { position: absolute; top: 70%; left: 115%; width: 45%; height: 7.70833333333333%; }
+
+#ccK1u7h111_112 { position: absolute; top: 8.33333333333333%; left: 180%; width: 45%; height: 7.70833333333333%; }
+
+#ccK1u7h113_114 { position: absolute; top: 21.6666666666667%; left: 182.5%; width: 45%; height: 7.70833333333333%; }
+
+#Image530 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#MediaPlayer24 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Container65 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image347 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image348 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label83 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image349 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image531 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container66 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image350 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image351 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label84 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image352 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#HtmlContent121 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent122 { position: absolute; top: 50%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent123 { position: absolute; top: 86.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent124 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent125 { position: absolute; top: 160%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent126 { position: absolute; top: 196.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent127 { position: absolute; top: 233.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent128 { position: absolute; top: 270%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent129 { position: absolute; top: 306.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#HtmlContent131 { position: absolute; top: 343.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Image532 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container67 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image353 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image354 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label85 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image355 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer52 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer75 { position: absolute; top: 50%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer76 { position: absolute; top: 86.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer77 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer78 { position: absolute; top: 160%; left: 2.5%; width: 95%; height: 35%; }
+
+#Image533 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container68 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image356 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image357 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#r_K1u8 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 60%; }
+
+#Label86 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#ccK1u8h115_116 { position: absolute; top: 8.33333333333333%; left: 115%; width: 52.5%; height: 7.70833333333333%; }
+
+#ccK1u8h117_118 { position: absolute; top: 20%; left: 115%; width: 55%; height: 7.70833333333333%; }
+
+#Image358 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#ccK1u8h119_120 { position: absolute; top: 30%; left: 115%; width: 50%; height: 7.70833333333333%; }
+
+#ccK1u8h121_122 { position: absolute; top: 40%; left: 115%; width: 55%; height: 7.70833333333333%; }
+
+#ccK1u8h123_124 { position: absolute; top: 50%; left: 115%; width: 55%; height: 7.70833333333333%; }
+
+#ccK1u8h125_126 { position: absolute; top: 60%; left: 115%; width: 55%; height: 7.70833333333333%; }
+
+#ccK1u8h127_128 { position: absolute; top: 70%; left: 115%; width: 60%; height: 7.70833333333333%; }
+
+#Image534 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container69 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image399 { position: absolute; top: 20%; left: 75%; width: 7.5%; height: 60%; }
+
+#Image361 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image362 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#r_K2u2 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 55%; }
+
+#Label87 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#ccK2u2h17_18 { position: absolute; top: 8.33333333333333%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK2u2h19_20 { position: absolute; top: 20%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#Image363 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#ccK2u2h21_22 { position: absolute; top: 30%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK2u2h23_24 { position: absolute; top: 40%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK2u2h25_26 { position: absolute; top: 50%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK2u2h27_28 { position: absolute; top: 60%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#ccK2u2h29_30 { position: absolute; top: 70%; left: 115%; width: 45%; height: 7.70833333333333%; }
+
+#ccK2u2h31_32 { position: absolute; top: 8.33333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#Container70 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image398 { position: absolute; top: 20%; left: 75%; width: 7.5%; height: 60%; }
+
+#Image366 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image367 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label88 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image368 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer34 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer35 { position: absolute; top: 50%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer56 { position: absolute; top: 86.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer57 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer58 { position: absolute; top: 160%; left: 2.5%; width: 95%; height: 35%; }
+
+#Container71 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image397 { position: absolute; top: 20%; left: 75%; width: 7.5%; height: 60%; }
+
+#Image369 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image370 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label89 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image371 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label90 { position: absolute; top: 15%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#Label91 { position: absolute; top: 56.6666666666667%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#Label92 { position: absolute; top: 140%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#Label93 { position: absolute; top: 98.3333333333333%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#Label94 { position: absolute; top: 223.333333333333%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#MediaPlayer36 { position: absolute; top: 20%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer37 { position: absolute; top: 61.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer53 { position: absolute; top: 103.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label110 { position: absolute; top: 181.666666666667%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#MediaPlayer61 { position: absolute; top: 145%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer62 { position: absolute; top: 186.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer68 { position: absolute; top: 228.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Container72 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image396 { position: absolute; top: 20%; left: 75%; width: 7.5%; height: 60%; }
+
+#Image372 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image373 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#r_K2u3 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 55%; }
+
+#Label95 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#ccK2u3h33_34 { position: absolute; top: 8.33333333333333%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#ccK2u3h35_36 { position: absolute; top: 20%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#Image374 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#ccK2u3h37_38 { position: absolute; top: 30%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK2u3h39_40 { position: absolute; top: 40%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK2u3h41_42 { position: absolute; top: 50%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK2u3h43_44 { position: absolute; top: 60%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#ccK2u3h45_46 { position: absolute; top: 70%; left: 115%; width: 45%; height: 7.70833333333333%; }
+
+#ccK2u3h47_48 { position: absolute; top: 8.33333333333333%; left: 162.5%; width: 45%; height: 7.70833333333333%; }
+
+#ccK2u3h49_50 { position: absolute; top: 18.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#ccK2u3h51_52 { position: absolute; top: 28.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#ccK2u3h53_54 { position: absolute; top: 38.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#ccK2u3h55_56 { position: absolute; top: 48.3333333333333%; left: 162.5%; width: 45%; height: 7.70833333333333%; }
+
+#ccK2u3h57_58 { position: absolute; top: 58.3333333333333%; left: 165%; width: 45%; height: 7.70833333333333%; }
+
+#ccK2u3h59_60 { position: absolute; top: 68.3333333333333%; left: 165%; width: 45%; height: 7.70833333333333%; }
+
+#ccK2u3h61_62 { position: absolute; top: 78.3333333333333%; left: 165%; width: 45%; height: 7.70833333333333%; }
+
+#Container74 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image395 { position: absolute; top: 20%; left: 75%; width: 7.5%; height: 60%; }
+
+#Image380 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image381 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label99 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image382 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer27 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer70 { position: absolute; top: 50%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer71 { position: absolute; top: 86.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer72 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer73 { position: absolute; top: 160%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer74 { position: absolute; top: 196.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#Container73 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image389 { position: absolute; top: 20%; left: 75%; width: 8.125%; height: 60%; }
+
+#Image377 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image378 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label96 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image379 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label97 { position: absolute; top: 15%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#Label98 { position: absolute; top: 56.6666666666667%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#Label100 { position: absolute; top: 98.3333333333333%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#Label102 { position: absolute; top: 181.666666666667%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#Label103 { position: absolute; top: 140%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#Label104 { position: absolute; top: 223.333333333333%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#Label105 { position: absolute; top: 265%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#Label106 { position: absolute; top: 306.666666666667%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#Label107 { position: absolute; top: 348.333333333333%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#Label108 { position: absolute; top: 390%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#MediaPlayer69 { position: absolute; top: 145%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer25 { position: absolute; top: 20%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer26 { position: absolute; top: 61.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer28 { position: absolute; top: 103.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer29 { position: absolute; top: 186.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer30 { position: absolute; top: 228.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer31 { position: absolute; top: 270%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer32 { position: absolute; top: 311.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer33 { position: absolute; top: 353.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer63 { position: absolute; top: 395%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label117 { position: absolute; top: 431.666666666667%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Label123 { position: absolute; top: 436.666666666667%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#MediaPlayer95 { position: absolute; top: 441.666666666667%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Label126 { position: absolute; top: 451.666666666667%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#MediaPlayer96 { position: absolute; top: 456.666666666667%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Label130 { position: absolute; top: 466.666666666667%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#MediaPlayer97 { position: absolute; top: 471.666666666667%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Label131 { position: absolute; top: 481.666666666667%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#MediaPlayer98 { position: absolute; top: 486.666666666667%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Label132 { position: absolute; top: 496.666666666667%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#MediaPlayer99 { position: absolute; top: 501.666666666667%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Label133 { position: absolute; top: 511.666666666667%; left: 2.5%; width: 62.5%; height: 4.375%; }
+
+#MediaPlayer100 { position: absolute; top: 516.666666666667%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Container75 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image383 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image384 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#r_K1u10 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 60%; }
+
+#Label111 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#ccK1u10h147_148 { position: absolute; top: 8.33333333333333%; left: 115%; width: 52.5%; height: 7.70833333333333%; }
+
+#Image385 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#ccK1u10h149_150 { position: absolute; top: 20%; left: 115%; width: 50%; height: 7.70833333333333%; }
+
+#ccK1u10h151_152 { position: absolute; top: 31.6666666666667%; left: 112.5%; width: 55%; height: 7.70833333333333%; }
+
+#ccK1u10h153_154 { position: absolute; top: 41.6666666666667%; left: 115%; width: 55%; height: 7.70833333333333%; }
+
+#ccK1u10h155_156 { position: absolute; top: 51.6666666666667%; left: 115%; width: 55%; height: 7.70833333333333%; }
+
+#ccK1u10h157_158 { position: absolute; top: 63.3333333333333%; left: 112.5%; width: 60%; height: 7.70833333333333%; }
+
+#ccK1u10h159_160 { position: absolute; top: 11.6666666666667%; left: 170%; width: 60%; height: 7.70833333333333%; }
+
+#ccK1u10h161_162 { position: absolute; top: 21.6666666666667%; left: 170%; width: 60%; height: 7.70833333333333%; }
+
+#ccK1u10h163_164 { position: absolute; top: 31.6666666666667%; left: 172.5%; width: 60%; height: 7.70833333333333%; }
+
+#Container76 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image388 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#r_K2u4 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 55%; }
+
+#Label112 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#ccK2u4h63_64 { position: absolute; top: 8.33333333333333%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#ccK2u4h65_66 { position: absolute; top: 20%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#Image390 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#ccK2u4h67_68 { position: absolute; top: 30%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK2u4h69_70 { position: absolute; top: 40%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK2u4h71_72 { position: absolute; top: 50%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#ccK2u4h73_74 { position: absolute; top: 60%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#ccK2u4h75_76 { position: absolute; top: 70%; left: 115%; width: 45%; height: 7.70833333333333%; }
+
+#ccK2u4h77_78 { position: absolute; top: 8.33333333333333%; left: 162.5%; width: 45%; height: 7.70833333333333%; }
+
+#ccK2u4h79_80 { position: absolute; top: 18.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#ccK2u4h81_82 { position: absolute; top: 28.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#ccK2u4h83_84 { position: absolute; top: 38.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#ccK2u4h85_86 { position: absolute; top: 48.3333333333333%; left: 162.5%; width: 45%; height: 7.70833333333333%; }
+
+#Image393 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image394 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container77 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image407 { position: absolute; top: 20%; left: 75%; width: 8.125%; height: 60%; }
+
+#Image408 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image409 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label113 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image410 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer101 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer102 { position: absolute; top: 50%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer103 { position: absolute; top: 86.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer104 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer105 { position: absolute; top: 160%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer106 { position: absolute; top: 196.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label116 { position: absolute; top: 400%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#MediaPlayer113 { position: absolute; top: 410%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Label118 { position: absolute; top: 233.333333333333%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer86 { position: absolute; top: 238.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label119 { position: absolute; top: 275%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer87 { position: absolute; top: 280%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label120 { position: absolute; top: 316.666666666667%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer88 { position: absolute; top: 321.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label121 { position: absolute; top: 358.333333333333%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer89 { position: absolute; top: 363.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label122 { position: absolute; top: 405%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#Label124 { position: absolute; top: 420%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer90 { position: absolute; top: 425%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Label125 { position: absolute; top: 435%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer91 { position: absolute; top: 440%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#MediaPlayer92 { position: absolute; top: 455%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Label127 { position: absolute; top: 465%; left: 2.5%; width: 67.5%; height: 5%; }
+
+#Label128 { position: absolute; top: 450%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer93 { position: absolute; top: 470%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Label129 { position: absolute; top: 480%; left: 2.5%; width: 67.5%; height: 5%; }
+
+#MediaPlayer94 { position: absolute; top: 485%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Container78 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image406 { position: absolute; top: 20%; left: 75%; width: 7.5%; height: 60%; }
+
+#Image411 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image412 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label114 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image413 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer107 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer108 { position: absolute; top: 50%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer109 { position: absolute; top: 86.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer110 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer111 { position: absolute; top: 160%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer112 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 8.33333333333333%; }
+
+#Container79 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image414 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image415 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label115 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image416 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Container80 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image417 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image418 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label134 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image419 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Container81 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image420 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image421 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label135 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image422 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer79 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer80 { position: absolute; top: 50%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer81 { position: absolute; top: 86.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer82 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer83 { position: absolute; top: 160%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer84 { position: absolute; top: 196.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer85 { position: absolute; top: 233.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer114 { position: absolute; top: 270%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer115 { position: absolute; top: 306.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer116 { position: absolute; top: 343.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer117 { position: absolute; top: 380%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer118 { position: absolute; top: 416.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer119 { position: absolute; top: 453.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer120 { position: absolute; top: 490%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer121 { position: absolute; top: 526.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer122 { position: absolute; top: 563.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Container82 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image423 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#r_K2u5 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 55%; }
+
+#Label136 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#MediaPlayer123 { position: absolute; top: 8.33333333333333%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#MediaPlayer124 { position: absolute; top: 20%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#Image424 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer125 { position: absolute; top: 30%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer126 { position: absolute; top: 40%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer127 { position: absolute; top: 50%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer128 { position: absolute; top: 60%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#MediaPlayer129 { position: absolute; top: 70%; left: 115%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer130 { position: absolute; top: 8.33333333333333%; left: 162.5%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer131 { position: absolute; top: 18.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer132 { position: absolute; top: 28.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer133 { position: absolute; top: 38.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer134 { position: absolute; top: 48.3333333333333%; left: 162.5%; width: 45%; height: 7.70833333333333%; }
+
+#Image427 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image428 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container83 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image429 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image430 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image431 { position: absolute; top: 38.3333333333333%; left: 12.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image432 { position: absolute; top: 36.6666666666667%; left: 60%; width: 32.5%; height: 20%; }
+
+#HtmlContent132 { position: absolute; top: 61.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image433 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image434 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Image435 { position: absolute; top: 13.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Label188 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Container84 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image425 { position: absolute; top: 20%; left: 75%; width: 8.125%; height: 60%; }
+
+#Image426 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image436 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label137 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image437 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label139 { position: absolute; top: 15%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer142 { position: absolute; top: 18.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label149 { position: absolute; top: 55%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer151 { position: absolute; top: 60%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label150 { position: absolute; top: 96.6666666666667%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer152 { position: absolute; top: 101.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label151 { position: absolute; top: 138.333333333333%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer153 { position: absolute; top: 143.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label152 { position: absolute; top: 180%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer154 { position: absolute; top: 185%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label153 { position: absolute; top: 221.666666666667%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer155 { position: absolute; top: 226.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label154 { position: absolute; top: 263.333333333333%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer156 { position: absolute; top: 268.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label155 { position: absolute; top: 305%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer157 { position: absolute; top: 310%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label156 { position: absolute; top: 346.666666666667%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer158 { position: absolute; top: 351.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label157 { position: absolute; top: 388.333333333333%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer159 { position: absolute; top: 393.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Container85 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image438 { position: absolute; top: 20%; left: 75%; width: 7.5%; height: 60%; }
+
+#Image439 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image440 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label138 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image441 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer135 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer136 { position: absolute; top: 50%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer137 { position: absolute; top: 86.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer138 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer139 { position: absolute; top: 160%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer175 { position: absolute; top: 196.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer176 { position: absolute; top: 233.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Container86 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image442 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image443 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#r_K1u11 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 60%; }
+
+#Label140 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#MediaPlayer140 { position: absolute; top: 8.33333333333333%; left: 115%; width: 52.5%; height: 7.70833333333333%; }
+
+#Image444 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer141 { position: absolute; top: 20%; left: 115%; width: 50%; height: 7.70833333333333%; }
+
+#MediaPlayer143 { position: absolute; top: 31.6666666666667%; left: 112.5%; width: 55%; height: 7.70833333333333%; }
+
+#MediaPlayer144 { position: absolute; top: 41.6666666666667%; left: 115%; width: 55%; height: 7.70833333333333%; }
+
+#MediaPlayer145 { position: absolute; top: 51.6666666666667%; left: 115%; width: 55%; height: 7.70833333333333%; }
+
+#MediaPlayer146 { position: absolute; top: 63.3333333333333%; left: 112.5%; width: 60%; height: 7.70833333333333%; }
+
+#MediaPlayer147 { position: absolute; top: 11.6666666666667%; left: 170%; width: 60%; height: 7.70833333333333%; }
+
+#MediaPlayer148 { position: absolute; top: 21.6666666666667%; left: 170%; width: 60%; height: 7.70833333333333%; }
+
+#MediaPlayer149 { position: absolute; top: 31.6666666666667%; left: 172.5%; width: 60%; height: 7.70833333333333%; }
+
+#Image535 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container88 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image450 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image451 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label142 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image452 { position: absolute; top: 0%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image537 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container87 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image447 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image448 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label141 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image449 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer150 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer160 { position: absolute; top: 50%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer161 { position: absolute; top: 86.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer162 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer163 { position: absolute; top: 160%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer164 { position: absolute; top: 196.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer165 { position: absolute; top: 233.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Image536 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container89 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image453 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image454 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image455 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image456 { position: absolute; top: 8.75%; left: 42.5%; width: 17.5%; height: 8.33333333333333%; }
+
+#Label143 { position: absolute; top: 18.3333333333333%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #ffad5b; padding-left: 20px;}
+
+#Label144 { position: absolute; top: 25%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #00ec76; padding-left: 20px;}
+
+#Label145 { position: absolute; top: 31.6666666666667%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #bb77ff; padding-left: 20px;}
+
+#Label146 { position: absolute; top: 38.3333333333333%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #26b9ff; padding-left: 20px;}
+
+#Label147 { position: absolute; top: 45%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #f0f000; padding-left: 20px;}
+
+#Label148 { position: absolute; top: 51.6666666666667%; left: 2.5%; width: 95%; height: 5%; font-size: 20px; text-align: left; background-color: #ff8080; padding-left: 20px;}
+
+#Container90 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image457 { position: absolute; top: 20%; left: 75%; width: 7.5%; height: 60%; }
+
+#Image458 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image459 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image460 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Container91 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image461 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image462 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image463 { position: absolute; top: 40%; left: 15%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image464 { position: absolute; top: 36.6666666666667%; left: 55%; width: 32.5%; height: 20%; }
+
+#HtmlContent133 { position: absolute; top: 61.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image465 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image466 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Image492 { position: absolute; top: 16.6666666666667%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Label167 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; text-align: center; background-color: #ffb366;}
+
+#Container92 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image467 { position: absolute; top: 20%; left: 75%; width: 8.125%; height: 60%; }
+
+#Image468 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image469 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label160 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image470 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label161 { position: absolute; top: 15%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer166 { position: absolute; top: 18.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label162 { position: absolute; top: 55%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer167 { position: absolute; top: 60%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label168 { position: absolute; top: 96.6666666666667%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer211 { position: absolute; top: 101.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label169 { position: absolute; top: 138.333333333333%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer212 { position: absolute; top: 143.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label170 { position: absolute; top: 180%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer213 { position: absolute; top: 185%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label171 { position: absolute; top: 221.666666666667%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer217 { position: absolute; top: 226.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label172 { position: absolute; top: 263.333333333333%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer218 { position: absolute; top: 268.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Container94 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image474 { position: absolute; top: 20%; left: 75%; width: 7.5%; height: 60%; }
+
+#Image475 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image476 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label164 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image477 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer177 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer178 { position: absolute; top: 50%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer179 { position: absolute; top: 86.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer180 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer181 { position: absolute; top: 160%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer182 { position: absolute; top: 196.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer183 { position: absolute; top: 233.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer184 { position: absolute; top: 270%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer185 { position: absolute; top: 306.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer214 { position: absolute; top: 343.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer215 { position: absolute; top: 380%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer216 { position: absolute; top: 416.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer219 { position: absolute; top: 453.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer220 { position: absolute; top: 490%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer221 { position: absolute; top: 526.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer222 { position: absolute; top: 563.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Container93 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image471 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image472 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image473 { position: absolute; top: 48.3333333333333%; left: 15%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image478 { position: absolute; top: 45%; left: 60%; width: 32.5%; height: 20%; }
+
+#HtmlContent134 { position: absolute; top: 71.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image479 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image480 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Image481 { position: absolute; top: 23.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Label159 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; text-align: center; background-color: #ffb366;}
+
+#Container95 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image482 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#r_K1u12 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 55%; }
+
+#Label158 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#MediaPlayer168 { position: absolute; top: 8.33333333333333%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#MediaPlayer169 { position: absolute; top: 20%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#Image483 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer170 { position: absolute; top: 30%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer171 { position: absolute; top: 40%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer172 { position: absolute; top: 50%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer173 { position: absolute; top: 60%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#MediaPlayer174 { position: absolute; top: 70%; left: 115%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer186 { position: absolute; top: 8.33333333333333%; left: 162.5%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer187 { position: absolute; top: 18.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer188 { position: absolute; top: 28.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer189 { position: absolute; top: 38.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer190 { position: absolute; top: 48.3333333333333%; left: 162.5%; width: 45%; height: 7.70833333333333%; }
+
+#Image484 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image485 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container96 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image486 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image487 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label163 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image488 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image538 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container97 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image489 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image490 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label165 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image491 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer191 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer192 { position: absolute; top: 50%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer193 { position: absolute; top: 86.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer194 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer195 { position: absolute; top: 160%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer196 { position: absolute; top: 196.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer197 { position: absolute; top: 233.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer198 { position: absolute; top: 270%; left: 2.5%; width: 95%; height: 35%; }
+
+#Image539 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container98 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image493 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#r_S2u1 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 55%; }
+
+#Label166 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#MediaPlayer199 { position: absolute; top: 8.33333333333333%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#MediaPlayer200 { position: absolute; top: 20%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#Image494 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer201 { position: absolute; top: 30%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer202 { position: absolute; top: 40%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer203 { position: absolute; top: 50%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer204 { position: absolute; top: 60%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#MediaPlayer205 { position: absolute; top: 70%; left: 115%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer206 { position: absolute; top: 8.33333333333333%; left: 162.5%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer207 { position: absolute; top: 18.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer208 { position: absolute; top: 28.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer209 { position: absolute; top: 38.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer210 { position: absolute; top: 48.3333333333333%; left: 162.5%; width: 45%; height: 7.70833333333333%; }
+
+#Image495 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image496 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container101 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image43 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image44 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label175 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image45 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image513 { position: absolute; top: 48.3333333333333%; left: 7.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image514 { position: absolute; top: 46.6666666666667%; left: 32.5%; width: 32.5%; height: 20%; }
+
+#HtmlContent137 { position: absolute; top: 71.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image515 { position: absolute; top: 23.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Image516 { position: absolute; top: 46.6666666666667%; left: 70%; width: 25%; height: 16.6666666666667%; }
+
+#Image540 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container102 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image541 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image542 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label176 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image543 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image544 { position: absolute; top: 48.3333333333333%; left: 7.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image545 { position: absolute; top: 46.6666666666667%; left: 32.5%; width: 32.5%; height: 20%; }
+
+#HtmlContent73 { position: absolute; top: 71.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image546 { position: absolute; top: 23.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Image547 { position: absolute; top: 46.6666666666667%; left: 70%; width: 25%; height: 16.6666666666667%; }
+
+#Image548 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container103 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image122 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image130 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label177 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image132 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image549 { position: absolute; top: 48.3333333333333%; left: 12.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image550 { position: absolute; top: 46.6666666666667%; left: 57.5%; width: 32.5%; height: 20%; }
+
+#HtmlContent12 { position: absolute; top: 71.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image551 { position: absolute; top: 23.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Image553 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container104 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image204 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image205 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label178 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image552 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image554 { position: absolute; top: 48.3333333333333%; left: 12.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image555 { position: absolute; top: 46.6666666666667%; left: 57.5%; width: 32.5%; height: 20%; }
+
+#HtmlContent34 { position: absolute; top: 71.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image556 { position: absolute; top: 23.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Image557 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container105 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image319 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image320 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label179 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image345 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image346 { position: absolute; top: 48.3333333333333%; left: 12.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image558 { position: absolute; top: 46.6666666666667%; left: 57.5%; width: 32.5%; height: 20%; }
+
+#HtmlContent68 { position: absolute; top: 71.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image559 { position: absolute; top: 23.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Image560 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container106 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image359 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image360 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label180 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image561 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image562 { position: absolute; top: 48.3333333333333%; left: 12.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image563 { position: absolute; top: 46.6666666666667%; left: 57.5%; width: 32.5%; height: 20%; }
+
+#HtmlContent138 { position: absolute; top: 71.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image564 { position: absolute; top: 23.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Image565 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container107 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image193 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image194 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label181 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image566 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image567 { position: absolute; top: 48.3333333333333%; left: 12.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image568 { position: absolute; top: 46.6666666666667%; left: 57.5%; width: 32.5%; height: 20%; }
+
+#HtmlContent53 { position: absolute; top: 71.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image569 { position: absolute; top: 23.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Image570 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container108 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image386 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image387 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label182 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image571 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image572 { position: absolute; top: 48.3333333333333%; left: 12.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image573 { position: absolute; top: 46.6666666666667%; left: 57.5%; width: 32.5%; height: 20%; }
+
+#HtmlContent119 { position: absolute; top: 71.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image574 { position: absolute; top: 23.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Image575 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container109 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image445 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image446 { position: absolute; top: 2.08333333333333%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label183 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image576 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image577 { position: absolute; top: 48.3333333333333%; left: 12.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image578 { position: absolute; top: 46.6666666666667%; left: 57.5%; width: 32.5%; height: 20%; }
+
+#HtmlContent120 { position: absolute; top: 71.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image579 { position: absolute; top: 23.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Image580 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container110 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image334 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image335 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image581 { position: absolute; top: 38.3333333333333%; left: 12.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image582 { position: absolute; top: 36.6666666666667%; left: 60%; width: 32.5%; height: 20%; }
+
+#HtmlContent102 { position: absolute; top: 61.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image583 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image584 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Image585 { position: absolute; top: 13.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Label184 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Label185 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Container111 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image364 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image365 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image586 { position: absolute; top: 38.3333333333333%; left: 12.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image587 { position: absolute; top: 36.6666666666667%; left: 60%; width: 32.5%; height: 20%; }
+
+#HtmlContent130 { position: absolute; top: 61.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image588 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image589 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Image590 { position: absolute; top: 13.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Label186 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Container112 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image375 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image376 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image591 { position: absolute; top: 38.3333333333333%; left: 12.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image592 { position: absolute; top: 36.6666666666667%; left: 60%; width: 32.5%; height: 20%; }
+
+#HtmlContent117 { position: absolute; top: 61.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image593 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image594 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Image595 { position: absolute; top: 13.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Label187 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Container113 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image391 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image392 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image596 { position: absolute; top: 38.3333333333333%; left: 12.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image597 { position: absolute; top: 36.6666666666667%; left: 60%; width: 32.5%; height: 20%; }
+
+#HtmlContent118 { position: absolute; top: 61.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image598 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image599 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Image600 { position: absolute; top: 13.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Container114 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image601 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image602 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image603 { position: absolute; top: 38.3333333333333%; left: 12.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image604 { position: absolute; top: 36.6666666666667%; left: 60%; width: 32.5%; height: 20%; }
+
+#HtmlContent139 { position: absolute; top: 61.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image605 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image606 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Image607 { position: absolute; top: 13.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Label192 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Container115 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image608 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#r_K2u6 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 55%; }
+
+#MediaPlayer223 { position: absolute; top: 8.33333333333333%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#MediaPlayer224 { position: absolute; top: 20%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#Image609 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer225 { position: absolute; top: 30%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer226 { position: absolute; top: 40%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer227 { position: absolute; top: 50%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer228 { position: absolute; top: 60%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#MediaPlayer229 { position: absolute; top: 70%; left: 115%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer230 { position: absolute; top: 8.33333333333333%; left: 162.5%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer231 { position: absolute; top: 18.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer232 { position: absolute; top: 28.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer233 { position: absolute; top: 38.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer234 { position: absolute; top: 48.3333333333333%; left: 162.5%; width: 45%; height: 7.70833333333333%; }
+
+#Image610 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image611 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Label193 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Container116 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image612 { position: absolute; top: 20%; left: 75%; width: 8.125%; height: 60%; }
+
+#Image613 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image614 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label189 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image615 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label190 { position: absolute; top: 15%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer235 { position: absolute; top: 18.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label191 { position: absolute; top: 55%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer236 { position: absolute; top: 58.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label194 { position: absolute; top: 95%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer237 { position: absolute; top: 100%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label195 { position: absolute; top: 136.666666666667%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer238 { position: absolute; top: 141.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label196 { position: absolute; top: 178.333333333333%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer239 { position: absolute; top: 183.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label197 { position: absolute; top: 220%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer240 { position: absolute; top: 225%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label198 { position: absolute; top: 261.666666666667%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer241 { position: absolute; top: 265%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label199 { position: absolute; top: 301.666666666667%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer242 { position: absolute; top: 306.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label200 { position: absolute; top: 343.333333333333%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer243 { position: absolute; top: 348.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Label201 { position: absolute; top: 385%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer244 { position: absolute; top: 388.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#Container117 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image616 { position: absolute; top: 20%; left: 75%; width: 8.125%; height: 60%; }
+
+#Image617 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image618 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label202 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image619 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer245 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer246 { position: absolute; top: 50%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer255 { position: absolute; top: 86.6666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer256 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer257 { position: absolute; top: 160%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer258 { position: absolute; top: 196.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer259 { position: absolute; top: 233.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer260 { position: absolute; top: 270%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer261 { position: absolute; top: 306.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer262 { position: absolute; top: 343.333333333333%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer263 { position: absolute; top: 380%; left: 2.5%; width: 95%; height: 35%; }
+
+#MediaPlayer264 { position: absolute; top: 416.666666666667%; left: 2.5%; width: 95%; height: 35%; }
+
+#Container118 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image620 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image621 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image622 { position: absolute; top: 40%; left: 15%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image623 { position: absolute; top: 36.6666666666667%; left: 55%; width: 32.5%; height: 20%; }
+
+#HtmlContent140 { position: absolute; top: 61.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image624 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image625 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Image626 { position: absolute; top: 16.6666666666667%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Label203 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; text-align: center; background-color: #ffb366;}
+
+#Container119 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image627 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#r_S2u2 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 55%; }
+
+#Label204 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image628 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image629 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image630 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container120 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image631 { position: absolute; top: 20%; left: 75%; width: 8.125%; height: 60%; }
+
+#Image632 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image633 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label205 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image634 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label206 { position: absolute; top: 15%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer247 { position: absolute; top: 18.3333333333333%; left: 2.5%; width: 95%; height: 10%; }
+
+#Label207 { position: absolute; top: 30%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#Label211 { position: absolute; top: 90%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer254 { position: absolute; top: 33.3333333333333%; left: 2.5%; width: 95%; height: 10%; }
+
+#MediaPlayer265 { position: absolute; top: 48.3333333333333%; left: 2.5%; width: 95%; height: 10%; }
+
+#Label213 { position: absolute; top: 45%; left: 2.5%; width: 67.5%; height: 3.33333333333333%; }
+
+#Label214 { position: absolute; top: 60%; left: 2.5%; width: 67.5%; height: 3.33333333333333%; }
+
+#MediaPlayer266 { position: absolute; top: 63.3333333333333%; left: 2.5%; width: 95%; height: 10%; }
+
+#Label215 { position: absolute; top: 75%; left: 2.5%; width: 67.5%; height: 3.33333333333333%; }
+
+#MediaPlayer267 { position: absolute; top: 78.3333333333333%; left: 2.5%; width: 95%; height: 10%; }
+
+#MediaPlayer268 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 95%; height: 10%; }
+
+#Label216 { position: absolute; top: 105%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#Label217 { position: absolute; top: 120%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer271 { position: absolute; top: 108.333333333333%; left: 2.5%; width: 95%; height: 10%; }
+
+#MediaPlayer272 { position: absolute; top: 123.333333333333%; left: 2.5%; width: 95%; height: 10%; }
+
+#IFrame1 { position: absolute; top: 0%; left: 0%; width: 100%; height: 100%; }
+
+#iframe_test_video { position: absolute; top: 15%; left: 112.5%; width: 95%; height: 48.3333333333333%; }
+
+#IFrame { position: absolute; top: 30%; left: 20%; width: 46.5625%; height: 10.2083333333333%; }
+
+#MediaPlayer249 { position: absolute; top: 68.3333333333333%; left: 112.5%; width: 100%; height: 28.3333333333333%; }
+
+#Media { position: absolute; top: 48.3333333333333%; left: 20%; width: 46.5625%; height: 10.2083333333333%; }
+
+#close_test_video { position: absolute; top: 8.33333333333333%; left: 155%; width: 7.5%; height: 5%; }
+
+#Container121 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image657 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image658 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image659 { position: absolute; top: 38.3333333333333%; left: 12.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image660 { position: absolute; top: 36.6666666666667%; left: 60%; width: 32.5%; height: 20%; }
+
+#HtmlContent4 { position: absolute; top: 61.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image661 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image662 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Image663 { position: absolute; top: 13.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Label208 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Container122 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image664 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#r_K2u7 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 55%; }
+
+#MediaPlayer248 { position: absolute; top: 8.33333333333333%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#MediaPlayer250 { position: absolute; top: 20%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#Image665 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer251 { position: absolute; top: 30%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer252 { position: absolute; top: 40%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer253 { position: absolute; top: 50%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer269 { position: absolute; top: 60%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#MediaPlayer270 { position: absolute; top: 70%; left: 115%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer273 { position: absolute; top: 8.33333333333333%; left: 162.5%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer274 { position: absolute; top: 18.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer275 { position: absolute; top: 28.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer276 { position: absolute; top: 38.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer277 { position: absolute; top: 48.3333333333333%; left: 162.5%; width: 45%; height: 7.70833333333333%; }
+
+#Image666 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image667 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Label209 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Container123 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image668 { position: absolute; top: 20%; left: 75%; width: 8.125%; height: 60%; }
+
+#Image669 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image670 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label210 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image671 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label212 { position: absolute; top: 15%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#k2_u7_audio { position: absolute; top: 33.3333333333333%; left: 117.5%; width: 95%; height: 35%; }
+
+#Label218 { position: absolute; top: 68.3333333333333%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#Image672 { position: absolute; top: 20%; left: 2.5%; width: 95.625%; height: 46.875%; }
+
+#close_k2_u7_audio { position: absolute; top: 20%; left: 157.5%; width: 7.5%; height: 5%; }
+
+#Image673 { position: absolute; top: 73.3333333333333%; left: 2.5%; width: 95.625%; height: 46.875%; }
+
+#Label219 { position: absolute; top: 121.666666666667%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#Image674 { position: absolute; top: 126.666666666667%; left: 2.5%; width: 95.625%; height: 46.875%; }
+
+#Label220 { position: absolute; top: 175%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#Image675 { position: absolute; top: 180%; left: 2.5%; width: 95.625%; height: 46.875%; }
+
+#Image676 { position: absolute; top: 233.333333333333%; left: 2.5%; width: 95.625%; height: 46.875%; }
+
+#Label221 { position: absolute; top: 228.333333333333%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#Image677 { position: absolute; top: 286.666666666667%; left: 2.5%; width: 95.625%; height: 46.875%; }
+
+#Label222 { position: absolute; top: 281.666666666667%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#Image678 { position: absolute; top: 340%; left: 2.5%; width: 95.625%; height: 46.875%; }
+
+#Label223 { position: absolute; top: 335%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#Image679 { position: absolute; top: 393.333333333333%; left: 2.5%; width: 95.625%; height: 46.875%; }
+
+#Label224 { position: absolute; top: 388.333333333333%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#Image680 { position: absolute; top: 446.666666666667%; left: 2.5%; width: 95.625%; height: 46.875%; }
+
+#Label225 { position: absolute; top: 441.666666666667%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#Container124 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image681 { position: absolute; top: 20%; left: 75%; width: 8.125%; height: 60%; }
+
+#Image682 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image683 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label226 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image684 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#video_k2_u7 { position: absolute; top: 33.3333333333333%; left: 117.5%; width: 95%; height: 35%; }
+
+#close_k2_u7_video { position: absolute; top: 20%; left: 157.5%; width: 7.5%; height: 5%; }
+
+#Image687 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image685 { position: absolute; top: 53.3333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image686 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image688 { position: absolute; top: 133.333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image689 { position: absolute; top: 173.333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image690 { position: absolute; top: 213.333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image691 { position: absolute; top: 253.333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image692 { position: absolute; top: 293.333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Container125 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image693 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image702 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image703 { position: absolute; top: 38.3333333333333%; left: 12.5%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image704 { position: absolute; top: 36.6666666666667%; left: 60%; width: 32.5%; height: 20%; }
+
+#HtmlContent3 { position: absolute; top: 61.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image705 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image706 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Image707 { position: absolute; top: 13.3333333333333%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Label227 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Container126 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image708 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image709 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image710 { position: absolute; top: 40%; left: 15%; width: 22.5%; height: 13.3333333333333%; }
+
+#Image711 { position: absolute; top: 36.6666666666667%; left: 55%; width: 32.5%; height: 20%; }
+
+#HtmlContent10 { position: absolute; top: 61.6666666666667%; left: 15%; width: 70%; height: 3.75%; }
+
+#Image712 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image713 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Image714 { position: absolute; top: 16.6666666666667%; left: 35%; width: 30%; height: 18.3333333333333%; }
+
+#Label228 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; text-align: center; background-color: #ffb366;}
+
+#Container127 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image715 { position: absolute; top: 20%; left: 75%; width: 8.125%; height: 60%; }
+
+#Image716 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image717 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label229 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image718 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label230 { position: absolute; top: 15%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer278 { position: absolute; top: 18.3333333333333%; left: 2.5%; width: 95%; height: 10%; }
+
+#Label231 { position: absolute; top: 30%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#Label232 { position: absolute; top: 90%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#MediaPlayer279 { position: absolute; top: 33.3333333333333%; left: 2.5%; width: 95%; height: 10%; }
+
+#MediaPlayer280 { position: absolute; top: 48.3333333333333%; left: 2.5%; width: 95%; height: 10%; }
+
+#Label233 { position: absolute; top: 45%; left: 2.5%; width: 67.5%; height: 3.33333333333333%; }
+
+#Label234 { position: absolute; top: 60%; left: 2.5%; width: 67.5%; height: 3.33333333333333%; }
+
+#MediaPlayer281 { position: absolute; top: 63.3333333333333%; left: 2.5%; width: 95%; height: 10%; }
+
+#Label235 { position: absolute; top: 75%; left: 2.5%; width: 67.5%; height: 3.33333333333333%; }
+
+#MediaPlayer282 { position: absolute; top: 78.3333333333333%; left: 2.5%; width: 95%; height: 10%; }
+
+#MediaPlayer283 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 95%; height: 10%; }
+
+#Container128 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image719 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#r_S2u3 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 55%; }
+
+#Label238 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image720 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Image721 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image722 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Container129 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image723 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#r_K2u8 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 55%; }
+
+#MediaPlayer284 { position: absolute; top: 8.33333333333333%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#MediaPlayer285 { position: absolute; top: 20%; left: 115%; width: 42.5%; height: 7.70833333333333%; }
+
+#Image724 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#MediaPlayer286 { position: absolute; top: 30%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer287 { position: absolute; top: 40%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer288 { position: absolute; top: 50%; left: 115%; width: 40%; height: 7.70833333333333%; }
+
+#MediaPlayer289 { position: absolute; top: 60%; left: 115%; width: 47.5%; height: 7.70833333333333%; }
+
+#MediaPlayer290 { position: absolute; top: 70%; left: 115%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer291 { position: absolute; top: 8.33333333333333%; left: 162.5%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer292 { position: absolute; top: 18.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer293 { position: absolute; top: 28.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer294 { position: absolute; top: 38.3333333333333%; left: 160%; width: 45%; height: 7.70833333333333%; }
+
+#MediaPlayer295 { position: absolute; top: 48.3333333333333%; left: 162.5%; width: 45%; height: 7.70833333333333%; }
+
+#Image725 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Image726 { position: absolute; top: 1.66666666666667%; left: 75%; width: 6.25%; height: 5%; }
+
+#Label236 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Container130 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image727 { position: absolute; top: 20%; left: 75%; width: 8.125%; height: 60%; }
+
+#Image728 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image729 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label237 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image730 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#Label239 { position: absolute; top: 15%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#k2_u8_audio { position: absolute; top: 33.3333333333333%; left: 117.5%; width: 95%; height: 35%; }
+
+#Image731 { position: absolute; top: 20%; left: 2.5%; width: 95.625%; height: 46.875%; }
+
+#close_k2_u8_audio { position: absolute; top: 20%; left: 157.5%; width: 7.5%; height: 5%; }
+
+#Image736 { position: absolute; top: 73.3333333333333%; left: 2.5%; width: 95.625%; height: 46.875%; }
+
+#Label243 { position: absolute; top: 68.3333333333333%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#Image732 { position: absolute; top: 126.666666666667%; left: 2.5%; width: 95.625%; height: 46.875%; }
+
+#Label240 { position: absolute; top: 121.666666666667%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#Image733 { position: absolute; top: 180%; left: 2.5%; width: 95.625%; height: 46.875%; }
+
+#Label241 { position: absolute; top: 175%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#Image734 { position: absolute; top: 233.333333333333%; left: 2.5%; width: 95.625%; height: 46.875%; }
+
+#Label242 { position: absolute; top: 228.333333333333%; left: 2.5%; width: 67.5%; height: 4.375%; }
+
+#Container131 { position: absolute; top: 0%; left: 0%; width: 100%; height: 8.33333333333333%; background-color: #4BA24B;}
+
+#Image735 { position: absolute; top: 20%; left: 75%; width: 8.125%; height: 60%; }
+
+#Image737 { position: absolute; top: 1.66666666666667%; left: 90%; width: 7.5%; height: 5%; }
+
+#Image738 { position: absolute; top: 1.66666666666667%; left: 82.5%; width: 6.25%; height: 4.16666666666667%; }
+
+#Label244 { position: absolute; top: 10%; left: 2.5%; width: 95%; height: 3.33333333333333%; background-color: #ffb366;}
+
+#Image739 { position: absolute; top: 0.625%; left: 5%; width: 12.5%; height: 7.08333333333333%; }
+
+#video_k2_u8 { position: absolute; top: 33.3333333333333%; left: 117.5%; width: 95%; height: 35%; }
+
+#close_k2_u8_video { position: absolute; top: 20%; left: 157.5%; width: 7.5%; height: 5%; }
+
+#Image741 { position: absolute; top: 13.3333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image742 { position: absolute; top: 53.3333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image743 { position: absolute; top: 93.3333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image744 { position: absolute; top: 133.333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image745 { position: absolute; top: 173.333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image746 { position: absolute; top: 213.333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image747 { position: absolute; top: 253.333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image748 { position: absolute; top: 293.333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image749 { position: absolute; top: 333.333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image750 { position: absolute; top: 373.333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image751 { position: absolute; top: 413.333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image752 { position: absolute; top: 453.333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image753 { position: absolute; top: 493.333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }
+
+#Image754 { position: absolute; top: 533.333333333333%; left: 2.5%; width: 95%; height: 38.3333333333333%; }

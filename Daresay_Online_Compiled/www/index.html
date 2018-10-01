@@ -1,0 +1,27 @@
+﻿<!doctype html>
+ <html ng-controller="AppCtrl" 
+  lang="{{App.LanguageCode}}" dir="{{App.TextDirection}}">
+  <head>
+   <meta charset="utf-8" />
+   <title>{{ App.Name }}</title>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   <meta http-equiv="Content-Security-Policy"
+    content="default-src * data: mediastream: blob: filesystem: gap: 'unsafe-inline' 'unsafe-eval';" />
+   <meta name="generator" content="App Builder v2016.190 - https://www.davidesperalta.com/" />
+   <meta name="description" content="Daresay Online - It's a review system of Daresay." />
+   <meta name="author" content="Edward - 15302130568@163.com - http://www.daresay.top/students" />
+   
+   <link rel="icon" type="image/png" href="app/images/icon.png" />
+   <link rel="shortcut icon" href="app/images/icon.png" type="image/x-icon" />
+   <link rel="stylesheet" type="text/css" id="appTheme" href="builder/styles/default.css" />
+   <link rel="stylesheet" type="text/css" href="builder/styles/builder.css" />
+   <link rel="stylesheet" type="text/css" id="appStyle" href="app/styles/scaled.css" />
+   
+  </head>
+  <body ng-view ng-controller="AppEventsCtrl">
+   <script src="builder/scripts/builder.js"></script>
+   <script src="app/scripts/app.js"></script>
+   <script src="cordova.js"></script>
+   
+  </body>
+ </html>
